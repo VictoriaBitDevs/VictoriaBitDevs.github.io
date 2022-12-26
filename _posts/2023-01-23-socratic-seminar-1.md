@@ -1,15 +1,13 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar 118"
+title: "Socratic Seminar 1"
 meetup: https://www.meetup.com/bitdevsnyc/events/289485929/
 ---
 
 
 ## Announcements
-Please join us for our next Socratic Seminar. We have two exciting announcements this month! Now that Andre and Zebedee have left for BitDevs LA, we have a new moderator, [Matthew Zipkin](https://twitter.com/MatthewZipkin), as well as a new pizza sponsor, [Wolf NYC](https://wolfnyc.com/). We'll also be meeting at the Chaincode Labs office this month as opposed to the DuMonth building. Please make sure you are RSVP'd, an identifier (but not a full name) is required for entry.
-
-As always, a special thank you to our other sponsors [CardCoins](https://cardcoins.co) and [Chaincode Labs](https://chaincode.com) for refreshments and event space.
+Please join us for our first Socratic Seminar in the city of Victoria. Please make sure you are RSVP'd, an identifier (but not a full name) is required for entry.
 
 ## Mailing Lists, Meetings and Bitcoin Optech
 
