@@ -17,14 +17,14 @@ Please join us for our inaugral Socratic Seminar in the city of Victoria. Please
 
 - [Full RBF discussion ongoing - Incentive Compatibility](https://github.com/bitcoin/bitcoin/pull/26451)
 - [Opt-in full-RBF - Zero-conf apps in immediate danger](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021226.html)
-- [Peter Todd full-RBF Peering client](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021270.html)
+- [Package Relay Proposal](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-November/021140.html)
 
 #### lightning-dev
 
+- [Channel Jamming countermeasures](https://research.chaincode.com/2022/11/15/unjamming-lightning/)
 - [Mitigating Channel Jamming with Reputation Credentials: a Protocol Sketch](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-November/003754.html)
 - [Factory-Optimized Protocols For Lightning](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-December/003782.html)
 - [Two party Eltoo w punishment](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-December/003788.html)
-- ["Updates Overflow" Attacks against Two-party Eltoo?](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-December/003798.html)
 
 ### Meetings
 
@@ -67,6 +67,7 @@ Please join us for our inaugral Socratic Seminar in the city of Victoria. Please
 
 ### InfoSec
 
+- [Luke lost his coins](https://twitter.com/LukeDashjr/status/1609613748364509184)
 - [Android platform certificates compromised](https://bugs.chromium.org/p/apvi/issues/detail?id=100)
 - [BinaryWatch.org](https://binarywatch.org/)
 - [COVID-bit: Keep a Distance of (at least) 2m From My Air-Gap Computer!](https://arxiv.org/abs/2212.03520)
@@ -116,16 +117,12 @@ Please join us for our inaugral Socratic Seminar in the city of Victoria. Please
 
 ## New Releases
 
-- [10101 v0.3.2](https://github.com/itchysats/10101/), [about](https://stacker.news/items/104296)
 - [Bitcoin Core v24.0.1](https://github.com/bitcoin/bitcoin/releases/tag/v24.0.1) - mempoolfullrbf, sendall rpc, new headers dl logic, more
 - [bitcoin-inquisition v23.0](https://github.com/bitcoin-inquisition/bitcoin/releases/tag/inq-v23.0), [about](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021275.html) - APO, CTV
 - [Core Lightning v22.11](https://github.com/ElementsProject/lightning/releases/tag/v22.11) , [blog](https://github.com/ElementsProject/lightning/releases/tag/v22.11) - reckless plugin manager, splicing scaffolding, more
 - [eclair v0.8.0](https://github.com/ACINQ/eclair/releases/tag/v0.8.0) - zero-conf channels, channel aliases, BOLT 12 scaffolding
 - [libsecp256k1 v0.2.0](https://github.com/bitcoin-core/secp256k1/releases/tag/v0.2.0) - schnorrsig, extrakeys and ECDH made default
-- [mercury-wallet v0.8.3](https://github.com/layer2tech/mercury-wallet/releases/tag/v0.8.3) - i2p support
 - [Phoenix v1.4.24](https://github.com/ACINQ/phoenix/releases/tag/android-legacy-v1.4.24) - LNURL-auth updates
-- [poncho v0.4.0](https://github.com/nbd-wtf/poncho/releases/tag/v0.4.0) - pay a hosted channel
-- [privpay-cli](https://github.com/private-payments/privpay-cli)
 - [specter-desktop v1.14.0](https://github.com/cryptoadvance/specter-desktop/releases/tag/v1.14.0) - taproot psbt fields
 - [Tor Browser v12.0](https://blog.torproject.org/new-release-tor-browser-120/) - m1 support, https-only by default
 - [RTL v13.3-beta](https://github.com/Ride-The-Lightning/RTL/releases/tag/v0.13.3) - Angular version upgrade to 15, Eclair updates)
@@ -137,7 +134,6 @@ Please join us for our inaugral Socratic Seminar in the city of Victoria. Please
 - [CD82: Bitcoin Lightning Privacy Research + Browser Based Mutiny Wallet with Ben Carman, Paul Miller, and Tony](https://www.podpage.com/citadeldispatch/cd82-bitcoin-lightning-privacy-research-browser-based-mutiny-wallet-with-ben-carman-paul-miller-and-tony/)
 - [CoreDev.tech 2022 Transcripts](https://diyhpl.us/wiki/transcripts/bitcoin-core-dev-tech/)
 - [SLP438 Lawrence Nahum - RBF, Green, Jade, BuildonL2](https://anchor.fm/stephan-livera/episodes/SLP438-Lawrence-Nahum---RBF--Green--Jade--BuildonL2-e1rtm3o)
-- [SLP439 Federico Tenga - What is RGB for Bitcoin? & Iris wallet](https://anchor.fm/stephan-livera/episodes/SLP439-Federico-Tenga---What-is-RGB-for-Bitcoin---Iris-wallet-e1ruvr5)
 
 ## Mining
 
@@ -153,10 +149,7 @@ Please join us for our inaugral Socratic Seminar in the city of Victoria. Please
 - [Miner centralization debate rages on...](https://twitter.com/LynAldenContact/status/1607456776567525376)
 - [Anonsats: Payments Without Borders](https://hackmd.io/@anonsats/SJDzzRR4i)
 - [From Miniscript to Simplicity](https://blog.blockstream.com/from-miniscript-to-simplicity/)
-- [Ledger Stax](https://shop.ledger.com/pages/ledger-stax)
-- [Legends of Lightning 2022 Winners](https://boltfun.substack.com/p/legendsoflightning-2022-winners)
 - [Lightning Landscape](https://www.lightning-landscape.net/projects)
-- [Lightning Privacy Introduction](https://lightningprivacy.com/en/introduction)
 - [LiquiDEX v1: Solving the Range Proof Issue](https://blog.blockstream.com/liquidex-v1-solving-the-rangeproof-issue/)
 - [Merged Mining Part 1](https://bitslog.com/2022/11/22/merged-mining-part-i/)
 - [NYDIG research on bitcoin development](https://assets-global.website-files.com/614e11536f66309636c98688/63208342664438223226c3de_NYDIG%20-%20Developers%20of%20Bitcoin%202022.pdf)
