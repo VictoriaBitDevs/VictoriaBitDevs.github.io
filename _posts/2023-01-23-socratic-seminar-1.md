@@ -23,7 +23,6 @@ Please join us for our inaugral Socratic Seminar in the city of Victoria. Please
 
 - [Channel Jamming countermeasures](https://research.chaincode.com/2022/11/15/unjamming-lightning/)
 - [Mitigating Channel Jamming with Reputation Credentials: a Protocol Sketch](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-November/003754.html)
-- [Factory-Optimized Protocols For Lightning](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-December/003782.html)
 - [Two party Eltoo w punishment](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-December/003788.html)
 
 ### Meetings
@@ -41,19 +40,14 @@ Please join us for our inaugral Socratic Seminar in the city of Victoria. Please
 
 ### Optech
 
-- [Newsletter #229](https://bitcoinops.org/en/newsletters/2022/12/07/), [audio recap](https://twitter.com/bitcoinoptech/status/1600867081225764864)
-- [Newsletter #230](https://bitcoinops.org/en/newsletters/2022/12/14/), [audio recap](https://twitter.com/bitcoinoptech/status/1602978833057161216)
 - [Newsletter #231 - 2022 Year-in-Review](https://bitcoinops.org/en/newsletters/2022/12/21/)
 
 ## Network Data
 
-- [70 bitcoin deployed to lightning in november](https://twitter.com/kerooke/status/1597741891399086081)
-- [block mined by small pool, mmpool](https://mobile.twitter.com/BraiinsInsights/status/1603080683206983681)
 - [electrum server performance report (2022)](https://blog.keys.casa/electrum-server-performance-report-2022/)
 - [inbound connection flooder down](https://b10c.me/observations/05-inbound-connection-flooder-down/)
 - [monitor fullrbf replacements](https://fullrbf.mempool.observer/)
 - [top fee-earning lightning routing nodes 2022](https://mobile.twitter.com/alexbosworth/status/1601243139347730437)
-- [wallet of satoshi completing 11k payments per day](https://twitter.com/kerooke/status/1600593233159286785)
 
 ### Research
 
@@ -129,7 +123,6 @@ Please join us for our inaugral Socratic Seminar in the city of Victoria. Please
 
 ## Events and Podcasts
 
-- [APAC BitDevs - Cryptographic Oracle-Based Conditional Payments](https://www.youtube.com/watch?v=hCjbStBKCEQ)
 - [Bitcoin, Explained 69: The Tornado Cash Trial](https://anchor.fm/bitcoin-explained/episodes/Bitcoin--Explained-69-The-Tornado-Cash-Trial-e1rl2lp)
 - [CD82: Bitcoin Lightning Privacy Research + Browser Based Mutiny Wallet with Ben Carman, Paul Miller, and Tony](https://www.podpage.com/citadeldispatch/cd82-bitcoin-lightning-privacy-research-browser-based-mutiny-wallet-with-ben-carman-paul-miller-and-tony/)
 - [CoreDev.tech 2022 Transcripts](https://diyhpl.us/wiki/transcripts/bitcoin-core-dev-tech/)
