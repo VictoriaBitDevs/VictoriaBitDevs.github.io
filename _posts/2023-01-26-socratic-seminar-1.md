@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Socratic Seminar 1"
-meetup: https://www.meetup.com/bitdevsnyc/events/289485929/
+meetup: https://www.meetup.com/bitdevsvictoria
 ---
 
 
