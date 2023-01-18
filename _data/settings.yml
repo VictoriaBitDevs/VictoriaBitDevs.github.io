@@ -4,5 +4,5 @@ tagline: 'BitDevs is a community for those interested in discussing and particip
 menu:
   - {name: 'About', url: '/about'}
   - {name: 'Events', url: '/events'}
-  - {name: 'Meetup', url: 'https://www.meetup.com/BitDevsVictoria/', external: true}
+  - {name: 'Meetup', url: 'https://www.meetup.com/vicbtc/', external: true}
   - {name: 'Cities', url: '/cities'}
