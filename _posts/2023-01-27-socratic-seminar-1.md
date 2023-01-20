@@ -9,6 +9,12 @@ meetup: https://www.meetup.com/vicbtc/events/291012377
 ## Announcements
 Please join us for our inaugral Socratic Seminar in the city of Victoria. Please make sure you are RSVP'd, an identifier (but not a full name) is required for entry.
 
+As a reminder, the ground rules of BitDevs are as follows:
+1. No photos, videos, or recordings
+2. [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule): you may reiterate the contents of the meeting without attribution
+
+These rules exist so that BitDevs participants can speak freely within the event
+
 ## Mailing Lists, Meetings and Bitcoin Optech
 
 ### Mailing Lists
@@ -23,29 +29,24 @@ Please join us for our inaugral Socratic Seminar in the city of Victoria. Please
 
 - [Channel Jamming countermeasures](https://research.chaincode.com/2022/11/15/unjamming-lightning/)
 - [Mitigating Channel Jamming with Reputation Credentials: a Protocol Sketch](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-November/003754.html)
-- [Two party Eltoo w punishment](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-December/003788.html)
 
 ### Meetings
 
 - Bitcoin PR Review Club
-    - [25574 Improve error handling when VerifyDB fails due to insufficient dbcache (validation)](https://bitcoincore.reviews/25574)
     - [26631 add coverage for dust mempool policy (-dustrelayfee setting) (tests)](https://bitcoincore.reviews/26631)
 - Bitcoin Core general developer meetings
-	- [December 1st](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-01.html#255)
-	- [December 8th](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-08.html#206)
-- Bitcoin Core wallet meetings
-	- [December 2nd](https://www.erisian.com.au/bitcoin-core-dev/log-2022-12-02.html#313)
+	- [January 19th](https://www.erisian.com.au/bitcoin-core-dev/log-2023-01-19.html)
 - Lightning Specification meeting
-    - [December 5th](https://github.com/lightning/bolts/issues/1046)
+    - [January 16th](https://github.com/lightning/bolts/issues/1050)
 
 ### Optech
 
-- [Newsletter #231 - 2022 Year-in-Review](https://bitcoinops.org/en/newsletters/2022/12/21/)
+- [Newsletter #231 - 2022 Year-in-Review](https://bitcoinops.org/en/newsletters/2022/12/21/), [audio recap](https://twitter.com/bitcoinoptech/status/1605941173452824576)
+- [Newsletter #233](https://bitcoinops.org/en/newsletters/2023/01/11/), [audio recap](https://twitter.com/bitcoinoptech/status/1613551393628995584)
+- [Newsletter #234](https://bitcoinops.org/en/newsletters/2023/01/18/), [audio recap](https://twitter.com/bitcoinoptech/status/1616087744077508613)
 
 ## Network Data
 
-- [electrum server performance report (2022)](https://blog.keys.casa/electrum-server-performance-report-2022/)
-- [inbound connection flooder down](https://b10c.me/observations/05-inbound-connection-flooder-down/)
 - [monitor fullrbf replacements](https://fullrbf.mempool.observer/)
 - [top fee-earning lightning routing nodes 2022](https://mobile.twitter.com/alexbosworth/status/1601243139347730437)
 
@@ -62,9 +63,7 @@ Please join us for our inaugral Socratic Seminar in the city of Victoria. Please
 ### InfoSec
 
 - [Luke lost his coins](https://twitter.com/LukeDashjr/status/1609613748364509184)
-- [Android platform certificates compromised](https://bugs.chromium.org/p/apvi/issues/detail?id=100)
 - [BinaryWatch.org](https://binarywatch.org/)
-- [COVID-bit: Keep a Distance of (at least) 2m From My Air-Gap Computer!](https://arxiv.org/abs/2212.03520)
 - [Malicious Python Packages Replace Crypto Addresses in Developer Clipboards](https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard)
 - [Pwn the ESP32 Forever: Flash Encryption and Sec. Boot Keys Extraction](https://limitedresults.com/2019/11/pwn-the-esp32-forever-flash-encryption-and-sec-boot-keys-extraction/)
  - [SGX.fail](https://SGX.fail)
@@ -76,12 +75,6 @@ Please join us for our inaugral Socratic Seminar in the city of Victoria. Please
 - [rpc: Return fee and prevout (utxos) to getrawtransaction](https://github.com/bitcoin/bitcoin/pull/23319)
 - [p2p: Erlay support signaling follow-up](https://github.com/bitcoin/bitcoin/pull/26359)
 - [wallet: bugfix, invalid CoinsResult cached total amount](https://github.com/bitcoin/bitcoin/pull/26560)
-- [wallet: Avoid a segfault in migratewallet failure cleanup](https://github.com/bitcoin/bitcoin/pull/26594)
-
-### secp256k1
-
-- [Enable non-experimental modules by default](https://github.com/bitcoin-core/secp256k1/pull/993)
-- [https://github.com/bitcoin-core/secp256k1/pull/1156](https://github.com/bitcoin-core/secp256k1/pull/1156)
 
 ### lnd
 
@@ -144,9 +137,7 @@ Please join us for our inaugral Socratic Seminar in the city of Victoria. Please
 - [From Miniscript to Simplicity](https://blog.blockstream.com/from-miniscript-to-simplicity/)
 - [Lightning Landscape](https://www.lightning-landscape.net/projects)
 - [LiquiDEX v1: Solving the Range Proof Issue](https://blog.blockstream.com/liquidex-v1-solving-the-rangeproof-issue/)
-- [Merged Mining Part 1](https://bitslog.com/2022/11/22/merged-mining-part-i/)
 - [NYDIG research on bitcoin development](https://assets-global.website-files.com/614e11536f66309636c98688/63208342664438223226c3de_NYDIG%20-%20Developers%20of%20Bitcoin%202022.pdf)
 - [Old signature posted on bitcointalk](https://bitcointalk.org/index.php?topic=5421158.msg61353840#msg61353840)
 - [Scaling Bitcoin with Lightning as a Service (LaaS)](https://medium.com/breez-technology/scaling-bitcoin-with-lightning-as-a-service-laas-369e7e6f6cb2)
-- [Someone trolling Martin Shkreli with Hal Finney's private key](https://martinshkreli.substack.com/p/paul-le-roux-is-satoshi)
 - [This Month in Bitcoin Privacy](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/November_2022/)
