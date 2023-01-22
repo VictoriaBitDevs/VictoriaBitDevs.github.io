@@ -62,7 +62,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 
 ### InfoSec
 
-- [Luke lost his coins](https://twitter.com/LukeDashjr/status/1609613748364509184)
+- [Luke lost his coins](https://twitter.com/LukeDashjr/status/1609613748364509184), [one postmortem](https://lordx64.medium.com/multiple-linux-backdoors-discovered-targeting-bitcoin-core-developer-technical-analysis-793f8491f561)
 - [BinaryWatch.org](https://binarywatch.org/)
 - [Malicious Python Packages Replace Crypto Addresses in Developer Clipboards](https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard)
 - [Pwn the ESP32 Forever: Flash Encryption and Sec. Boot Keys Extraction](https://limitedresults.com/2019/11/pwn-the-esp32-forever-flash-encryption-and-sec-boot-keys-extraction/)
