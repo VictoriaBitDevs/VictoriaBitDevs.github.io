@@ -29,6 +29,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 
 - [Channel Jamming countermeasures](https://research.chaincode.com/2022/11/15/unjamming-lightning/)
 - [Mitigating Channel Jamming with Reputation Credentials: a Protocol Sketch](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-November/003754.html)
+- [Mitigating Channel Jamming with Upfront fee](https://github.com/lightning/bolts/pull/1052)
 
 ### Meetings
 
@@ -92,7 +93,6 @@ These rules exist so that BitDevs participants can speak freely within the event
 
 - [reckless, plugin manager](https://github.com/ElementsProject/lightning/pull/5647)
 - [Offers: bolt12 updated for latest draft](https://github.com/ElementsProject/lightning/pull/5676)
-- [lightningd: don't announce names as DNS by default.](https://github.com/ElementsProject/lightning/pull/5796)
 - [Blinded paths cross-compatibility issues](https://github.com/ElementsProject/lightning/issues/5823)
 
 ### rust-lightning
@@ -116,9 +116,8 @@ These rules exist so that BitDevs participants can speak freely within the event
 
 ## Events and Podcasts
 
-- [Bitcoin, Explained 69: The Tornado Cash Trial](https://anchor.fm/bitcoin-explained/episodes/Bitcoin--Explained-69-The-Tornado-Cash-Trial-e1rl2lp)
-- [CD82: Bitcoin Lightning Privacy Research + Browser Based Mutiny Wallet with Ben Carman, Paul Miller, and Tony](https://www.podpage.com/citadeldispatch/cd82-bitcoin-lightning-privacy-research-browser-based-mutiny-wallet-with-ben-carman-paul-miller-and-tony/)
-- [CoreDev.tech 2022 Transcripts](https://diyhpl.us/wiki/transcripts/bitcoin-core-dev-tech/)
+- [OP_VAULT & Bitcoin Governance](https://tftc.io/tftc-podcast/388-op_vault-and-bitcoin-governance-james-obeirne/)
+- [Solving Lightning Channel Jamming](https://podcast.chaincode.com/2022/11/23/clara-sergei-lightning-jamming.html)
 - [SLP438 Lawrence Nahum - RBF, Green, Jade, BuildonL2](https://anchor.fm/stephan-livera/episodes/SLP438-Lawrence-Nahum---RBF--Green--Jade--BuildonL2-e1rtm3o)
 
 ## Mining
@@ -138,6 +137,5 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Lightning Landscape](https://www.lightning-landscape.net/projects)
 - [LiquiDEX v1: Solving the Range Proof Issue](https://blog.blockstream.com/liquidex-v1-solving-the-rangeproof-issue/)
 - [NYDIG research on bitcoin development](https://assets-global.website-files.com/614e11536f66309636c98688/63208342664438223226c3de_NYDIG%20-%20Developers%20of%20Bitcoin%202022.pdf)
-- [Old signature posted on bitcointalk](https://bitcointalk.org/index.php?topic=5421158.msg61353840#msg61353840)
 - [Scaling Bitcoin with Lightning as a Service (LaaS)](https://medium.com/breez-technology/scaling-bitcoin-with-lightning-as-a-service-laas-369e7e6f6cb2)
 - [This Month in Bitcoin Privacy](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/November_2022/)
