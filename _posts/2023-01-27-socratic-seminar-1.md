@@ -95,13 +95,6 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Offers: bolt12 updated for latest draft](https://github.com/ElementsProject/lightning/pull/5676)
 - [Blinded paths cross-compatibility issues](https://github.com/ElementsProject/lightning/issues/5823)
 
-### rust-lightning
-
-- [BOLT 12 invoice_request encoding and building](https://github.com/lightningdevkit/rust-lightning/pull/1738)
-- [Introduce new BumpTransactionEvent variant HTLCResolution](https://github.com/lightningdevkit/rust-lightning/pull/1825)
-- [Intercept HTLC forwards for JIT channels](https://github.com/lightningdevkit/rust-lightning/pull/1835)
-- [Add invoice constructor with custom payment hash](https://github.com/lightningdevkit/rust-lightning/pull/1894)
-
 ## New Releases
 
 - [Bitcoin Core v24.0.1](https://github.com/bitcoin/bitcoin/releases/tag/v24.0.1) - mempoolfullrbf, sendall rpc, new headers dl logic, more
@@ -112,20 +105,20 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Phoenix v1.4.24](https://github.com/ACINQ/phoenix/releases/tag/android-legacy-v1.4.24) - LNURL-auth updates
 - [specter-desktop v1.14.0](https://github.com/cryptoadvance/specter-desktop/releases/tag/v1.14.0) - taproot psbt fields
 - [Tor Browser v12.0](https://blog.torproject.org/new-release-tor-browser-120/) - m1 support, https-only by default
-- [RTL v13.3-beta](https://github.com/Ride-The-Lightning/RTL/releases/tag/v0.13.3) - Angular version upgrade to 15, Eclair updates)
+- [RTL v13.4-beta](https://github.com/Ride-The-Lightning/RTL/releases/tag/v0.13.4) - 2FA Hotfix)
 
 ## Events and Podcasts
 
 - [OP_VAULT & Bitcoin Governance](https://tftc.io/tftc-podcast/388-op_vault-and-bitcoin-governance-james-obeirne/)
 - [Solving Lightning Channel Jamming](https://podcast.chaincode.com/2022/11/23/clara-sergei-lightning-jamming.html)
-- [SLP438 Lawrence Nahum - RBF, Green, Jade, BuildonL2](https://anchor.fm/stephan-livera/episodes/SLP438-Lawrence-Nahum---RBF--Green--Jade--BuildonL2-e1rtm3o)
+- [SLP438 Lawrence Nahum - RBF, Green, Jade, BuildonL2](https://stephanlivera.com/episode/438/)
+- [SLP447 K3tan 2022 Year in review](https://stephanlivera.com/episode/447/)
 
 ## Mining
 
 - [B.C. pauses new electrical connections for mining](https://news.gov.bc.ca/releases/2022EMLI0067-001928)
 - [Coinmetric's State of the Network’s Q4 2022 Mining Data Special](https://coinmetrics.substack.com/p/state-of-the-network-issue-185#new_tab)
 - [How Does the Current Bitcoin Mining Bear Market Compare to Previous Ones?](https://hashrateindex.com/blog/how-does-the-current-bitcoin-mining-bear-market-compare-to-previous-ones/)
-- [November monthly performance: Argo, Bitfarms, DMG and more](https://compassmining.io/education/mining-stock-roundup-november-monthly-numbers/)
 
 ## Miscellaneous
 
@@ -133,9 +126,5 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Lightning Privacy Research](https://lightningprivacy.com/en/introduction)
 - [Miner centralization debate rages on...](https://twitter.com/LynAldenContact/status/1607456776567525376)
 - [Anonsats: Payments Without Borders](https://hackmd.io/@anonsats/SJDzzRR4i)
-- [From Miniscript to Simplicity](https://blog.blockstream.com/from-miniscript-to-simplicity/)
 - [Lightning Landscape](https://www.lightning-landscape.net/projects)
-- [LiquiDEX v1: Solving the Range Proof Issue](https://blog.blockstream.com/liquidex-v1-solving-the-rangeproof-issue/)
 - [NYDIG research on bitcoin development](https://assets-global.website-files.com/614e11536f66309636c98688/63208342664438223226c3de_NYDIG%20-%20Developers%20of%20Bitcoin%202022.pdf)
-- [Scaling Bitcoin with Lightning as a Service (LaaS)](https://medium.com/breez-technology/scaling-bitcoin-with-lightning-as-a-service-laas-369e7e6f6cb2)
-- [This Month in Bitcoin Privacy](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/November_2022/)
