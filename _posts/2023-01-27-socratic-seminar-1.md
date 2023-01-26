@@ -65,9 +65,6 @@ These rules exist so that BitDevs participants can speak freely within the event
 
 - [Luke lost his coins](https://twitter.com/LukeDashjr/status/1609613748364509184), [one postmortem](https://lordx64.medium.com/multiple-linux-backdoors-discovered-targeting-bitcoin-core-developer-technical-analysis-793f8491f561)
 - [BinaryWatch.org](https://binarywatch.org/)
-- [Malicious Python Packages Replace Crypto Addresses in Developer Clipboards](https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard)
-- [Pwn the ESP32 Forever: Flash Encryption and Sec. Boot Keys Extraction](https://limitedresults.com/2019/11/pwn-the-esp32-forever-flash-encryption-and-sec-boot-keys-extraction/)
- - [SGX.fail](https://SGX.fail)
 
 ## Pull Requests and repo updates
 
@@ -75,18 +72,15 @@ These rules exist so that BitDevs participants can speak freely within the event
 
 - [rpc: Return fee and prevout (utxos) to getrawtransaction](https://github.com/bitcoin/bitcoin/pull/23319)
 - [p2p: Erlay support signaling follow-up](https://github.com/bitcoin/bitcoin/pull/26359)
-- [wallet: bugfix, invalid CoinsResult cached total amount](https://github.com/bitcoin/bitcoin/pull/26560)
 
 ### lnd
 
 - [pathfinding: capacity-dependent apriori model probability](https://github.com/lightningnetwork/lnd/pull/6857)
-- [htlcswitch: relax failure message length check](https://github.com/lightningnetwork/lnd/pull/6913)
 - [lncli+chainrpc: add chainkit RPC service with endpoints GetBlock, GetBestBlock, GetBlockHash](https://github.com/lightningnetwork/lnd/pull/7197)
 
 ### eclair
 
 - [Improve htlc_maximum_msat in channel updates](https://github.com/ACINQ/eclair/pull/2299)
-- [Implement correct ordering of tx_signatures](https://github.com/ACINQ/eclair/pull/2501)
 - [Create routes to self using remote alias](https://github.com/ACINQ/eclair/pull/2507)
 
 ### c-lightning
@@ -98,14 +92,13 @@ These rules exist so that BitDevs participants can speak freely within the event
 ## New Releases
 
 - [Bitcoin Core v24.0.1](https://github.com/bitcoin/bitcoin/releases/tag/v24.0.1) - mempoolfullrbf, sendall rpc, new headers dl logic, more
-- [bitcoin-inquisition v23.0](https://github.com/bitcoin-inquisition/bitcoin/releases/tag/inq-v23.0), [about](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021275.html) - APO, CTV
 - [Core Lightning v22.11](https://github.com/ElementsProject/lightning/releases/tag/v22.11) , [blog](https://github.com/ElementsProject/lightning/releases/tag/v22.11) - reckless plugin manager, splicing scaffolding, more
 - [eclair v0.8.0](https://github.com/ACINQ/eclair/releases/tag/v0.8.0) - zero-conf channels, channel aliases, BOLT 12 scaffolding
 - [libsecp256k1 v0.2.0](https://github.com/bitcoin-core/secp256k1/releases/tag/v0.2.0) - schnorrsig, extrakeys and ECDH made default
 - [Phoenix v1.4.24](https://github.com/ACINQ/phoenix/releases/tag/android-legacy-v1.4.24) - LNURL-auth updates
 - [specter-desktop v1.14.0](https://github.com/cryptoadvance/specter-desktop/releases/tag/v1.14.0) - taproot psbt fields
 - [Tor Browser v12.0](https://blog.torproject.org/new-release-tor-browser-120/) - m1 support, https-only by default
-- [RTL v13.4-beta](https://github.com/Ride-The-Lightning/RTL/releases/tag/v0.13.4) - 2FA Hotfix)
+- [RTL v13.4-beta](https://github.com/Ride-The-Lightning/RTL/releases/tag/v0.13.4) - 2FA Hotfix
 
 ## Events and Podcasts
 
@@ -125,6 +118,5 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Taro: A new asset issuance protocol on Bitcoin](https://coinshares.com/research/taro-a-new-asset-issuance-protocol-on-bitcoin#major_taro_opportunities)
 - [Lightning Privacy Research](https://lightningprivacy.com/en/introduction)
 - [Miner centralization debate rages on...](https://twitter.com/LynAldenContact/status/1607456776567525376)
-- [Anonsats: Payments Without Borders](https://hackmd.io/@anonsats/SJDzzRR4i)
-- [Lightning Landscape](https://www.lightning-landscape.net/projects)
 - [NYDIG research on bitcoin development](https://assets-global.website-files.com/614e11536f66309636c98688/63208342664438223226c3de_NYDIG%20-%20Developers%20of%20Bitcoin%202022.pdf)
+- [Nostr catches fire](https://nostr-resources.com)
