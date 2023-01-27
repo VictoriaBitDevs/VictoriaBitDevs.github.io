@@ -22,14 +22,14 @@ These rules exist so that BitDevs participants can speak freely within the event
 #### bitcoin-dev
 
 - [Full RBF discussion ongoing - Incentive Compatibility](https://github.com/bitcoin/bitcoin/pull/26451)
-- [Opt-in full-RBF - Zero-conf apps in immediate danger](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021226.html)
+- [Opt-in full-RBF - Zero-conf apps in immediate danger](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021226.html), [one response](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021242.html)
 - [Package Relay Proposal](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-November/021140.html)
 
 #### lightning-dev
 
 - [Channel Jamming countermeasures](https://research.chaincode.com/2022/11/15/unjamming-lightning/)
-- [Mitigating Channel Jamming with Reputation Credentials: a Protocol Sketch](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-November/003754.html)
-- [Mitigating Channel Jamming with Upfront fee](https://github.com/lightning/bolts/pull/1052)
+- [Mitigating Channel Jamming with Reputation Credentials: a Protocol Sketch](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-November/003754.html), [proposal summary](https://github.com/lightning/bolts/blob/aa8ac0ebb38040c193a5f67d2ef8b4ffc909fb76/history/www-reputation-credentials-protocol.md)
+- [Mitigating Channel Jamming with Upfront fee](https://github.com/lightning/bolts/pull/1052), [proposal summary](https://github.com/lightning/bolts/blob/dc31129b1e6edd0706e891da94c437b126c5ab35/proposals/channel-jamming-mitigation.md)
 
 ### Meetings
 
@@ -48,6 +48,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 
 ## Network Data
 
+- [Bitcoin Mining Map](https://ccaf.io/cbeci/mining_map)
 - [monitor fullrbf replacements](https://fullrbf.mempool.observer/)
 - [top fee-earning lightning routing nodes 2022](https://mobile.twitter.com/alexbosworth/status/1601243139347730437)
 
@@ -71,12 +72,12 @@ These rules exist so that BitDevs participants can speak freely within the event
 ### Bitcoin Core
 
 - [rpc: Return fee and prevout (utxos) to getrawtransaction](https://github.com/bitcoin/bitcoin/pull/23319)
-- [p2p: Erlay support signaling follow-up](https://github.com/bitcoin/bitcoin/pull/26359)
+- [p2p: Erlay support signaling follow-up](https://github.com/bitcoin/bitcoin/pull/26359), [erlay pr](https://github.com/bitcoin/bitcoin/pull/21515)
 
 ### lnd
 
 - [pathfinding: capacity-dependent apriori model probability](https://github.com/lightningnetwork/lnd/pull/6857)
-- [lncli+chainrpc: add chainkit RPC service with endpoints GetBlock, GetBestBlock, GetBlockHash](https://github.com/lightningnetwork/lnd/pull/7197)
+- [kvdb: add sqlite](https://github.com/lightningnetwork/lnd/pull/7251)
 
 ### eclair
 
@@ -120,3 +121,4 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Miner centralization debate rages on...](https://twitter.com/LynAldenContact/status/1607456776567525376)
 - [NYDIG research on bitcoin development](https://assets-global.website-files.com/614e11536f66309636c98688/63208342664438223226c3de_NYDIG%20-%20Developers%20of%20Bitcoin%202022.pdf)
 - [Nostr catches fire](https://nostr-resources.com)
+- [Emerging markets powering lightning growth](https://lightninglabs.substack.com/p/signal-over-noise-how-emerging-markets)
