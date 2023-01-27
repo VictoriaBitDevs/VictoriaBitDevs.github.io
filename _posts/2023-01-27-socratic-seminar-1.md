@@ -21,7 +21,6 @@ These rules exist so that BitDevs participants can speak freely within the event
 
 #### bitcoin-dev
 
-- [Full RBF discussion ongoing - Incentive Compatibility](https://github.com/bitcoin/bitcoin/pull/26451)
 - [Opt-in full-RBF - Zero-conf apps in immediate danger](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021226.html), [one response](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021242.html)
 - [Package Relay Proposal](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-November/021140.html)
 
@@ -122,3 +121,8 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [NYDIG research on bitcoin development](https://assets-global.website-files.com/614e11536f66309636c98688/63208342664438223226c3de_NYDIG%20-%20Developers%20of%20Bitcoin%202022.pdf)
 - [Nostr catches fire](https://nostr-resources.com)
 - [Emerging markets powering lightning growth](https://lightninglabs.substack.com/p/signal-over-noise-how-emerging-markets)
+
+## Beginner Learning Resources
+- [The Beginner's Guide to Bitcoin podcast series](https://www.whatbitcoindid.com/the-beginners-guide-to-bitcoin)
+- [Bitcoin Infographics](https://www.bitcoindesigned.com/)
+- [Book recommendation - The Bullish case for Bitcoin](https://vijayboyapati.medium.com/the-bullish-case-for-bitcoin-6ecc8bdecc1)
