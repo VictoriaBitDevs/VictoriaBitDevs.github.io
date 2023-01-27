@@ -22,7 +22,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 #### bitcoin-dev
 
 - [Opt-in full-RBF - Zero-conf apps in immediate danger](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021226.html), [one response](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021242.html)
-- [Package Relay Proposal](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-November/021140.html)
+- [Package Relay Proposal](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-November/021140.html), [Optech summary](https://bitcoinops.org/en/topics/package-relay/)
 
 #### lightning-dev
 
