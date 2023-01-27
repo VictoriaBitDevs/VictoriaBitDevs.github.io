@@ -126,3 +126,6 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [The Beginner's Guide to Bitcoin podcast series](https://www.whatbitcoindid.com/the-beginners-guide-to-bitcoin)
 - [Bitcoin Infographics](https://www.bitcoindesigned.com/)
 - [Book recommendation - The Bullish case for Bitcoin](https://vijayboyapati.medium.com/the-bullish-case-for-bitcoin-6ecc8bdecc1)
+
+## Meme of the day
+- [Bitcoiners vs Gold Bugs](https://twitter.com/gregzaj1/status/1619015997876486151)
