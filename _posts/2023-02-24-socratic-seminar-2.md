@@ -79,11 +79,15 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Breeze SDK for developers on Lightning](https://medium.com/breez-technology/lightning-for-everyone-in-any-app-lightning-as-a-service-via-the-breez-sdk-41d899057a1d)
 - [Ordinals Overview](https://docs.ordinals.com/overview.html)
 - [Inscribing Ordinals](https://docs.ordinals.com/guides/inscriptions.html)
+- [Ordinal Disrespector](https://minibolt.info/guide/bonus/bitcoin/ordisrespector.html#install)
 - [Damus Approved on App Store](https://twitter.com/damusapp/status/1620541333269286912)
 - [Onboarding to Nostr](https://nostr.how)
 
 ## Beginner Learning Resources
 - [Book recommendation - Layered Money by Nik Bhatia](https://www.bitcoinerbooks.com/books/layered-money)
+- [Assume Valid explainer](https://river.com/learn/terms/a/assume-valid/)
+- [Segwit](https://en.bitcoin.it/wiki/Segregated_Witness)
+- [Weight Units](https://en.bitcoin.it/wiki/Weight_units)
 
 ## Meme of the day
 - [TBD]()
