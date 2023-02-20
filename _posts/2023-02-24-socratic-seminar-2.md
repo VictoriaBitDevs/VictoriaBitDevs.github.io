@@ -62,13 +62,18 @@ These rules exist so that BitDevs participants can speak freely within the event
 
 ### Lightning PRs
 
+#### LND
+
+- [Pathfinding: probability distribution for bimodal distribution](https://github.com/lightningnetwork/lnd/pull/6815)
+
 ## New Releases
 
 - [TBD]()
 
 ## Events and Podcasts
 
-- [TBD]()
+- [BTC:116 - Bitcoin Ordinals & NFTs on Layer1 of Bitcoin](https://open.spotify.com/episode/4mATX0f3hSmmfOePCGyfUZ)
+- [SLP456 - Casey Rodarmor What are Ordinals](https://stephanlivera.com/episode/456/)
 
 ## Mining
 
