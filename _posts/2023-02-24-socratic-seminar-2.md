@@ -64,7 +64,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 
 #### LND
 
-- [Pathfinding: probability distribution for bimodal distribution](https://github.com/lightningnetwork/lnd/pull/6815)
+- [Pathfinding: capacity-dependent apriori model probability](https://github.com/lightningnetwork/lnd/pull/6857)
 
 ## New Releases
 
@@ -87,10 +87,11 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Ordinal Disrespector](https://minibolt.info/guide/bonus/bitcoin/ordisrespector.html#install)
 - [Damus Approved on App Store](https://twitter.com/damusapp/status/1620541333269286912)
 - [Onboarding to Nostr](https://nostr.how)
+- [Jason Lower Thesis Published](https://twitter.com/JasonPLowery/status/1627640858106380290)
 
 ## Beginner Learning Resources
 - [Book recommendation - Layered Money by Nik Bhatia](https://www.bitcoinerbooks.com/books/layered-money)
-- [Assume Valid explainer](https://river.com/learn/terms/a/assume-valid/)
+- [Assumevalid explainer](https://river.com/learn/terms/a/assume-valid/)
 - [Segwit](https://en.bitcoin.it/wiki/Segregated_Witness)
 - [Weight Units](https://en.bitcoin.it/wiki/Weight_units)
 
