@@ -51,7 +51,10 @@ These rules exist so that BitDevs participants can speak freely within the event
 
 ### Research
 
-- [Bitcoin Security-Latency Under Network Delay](https://arxiv.org/abs/2212.01372v1)
+- [(Concurrently Secure) Blind Schnorr from Schorr](https://eprint.iacr.org/2022/1676)
+- [A framework for live host-based Bitcoin wallet forensics and triage](https://www.sciencedirect.com/science/article/pii/S2666281722001676)
+- [An analysis of the decentralization and effectiveness of Lightning Network](http://essay.utwente.nl/92624/1/Bachelor_Thesis.pdf)
+- [Topological Evolution Analysis of Payment Channels in Lightning Network](https://www.gta.ufrj.br/ftp/gta/TechReports/CRS22b.pdf)
 
 ### InfoSec
 
