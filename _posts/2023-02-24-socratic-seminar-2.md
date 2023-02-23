@@ -22,6 +22,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 #### bitcoin-dev
 
 - [OP_VAULT Proposal](https://github.com/jamesob/bips/blob/jamesob-23-02-opvault/bip-vaults.mediawiki)
+- [BIP324](https://github.com/dhruv/bips/blob/bip324/bip-0324.mediawiki)
 
 #### lightning-dev
 
@@ -45,6 +46,8 @@ These rules exist so that BitDevs participants can speak freely within the event
 ## Network Data
 
 - [Wallet of Satoshi lightning transactions](https://twitter.com/kerooke/status/1625586921840730144)
+- [Bitcoin tied to QuadrigaCX on the move](https://www.coindesk.com/policy/2022/12/19/bitcoin-addresses-tied-to-defunct-canadian-crypto-exchange-quadrigacx-wake-up/)
+- [Lightning Network capacity reaches all time new BTC high](https://bitcoinvisuals.com/ln-capacity)
 
 ### Research
 
@@ -58,17 +61,19 @@ These rules exist so that BitDevs participants can speak freely within the event
 
 ### Bitcoin Core
 
-- [TBD]()
+- [Reduce default mempool size in --blocksonly mode](https://github.com/bitcoin/bitcoin/pull/26471)
+- [rpc: add minconf/maxconf options to sendall and fund transaction calls](https://github.com/bitcoin/bitcoin/pull/25375)
 
 ### Lightning PRs
 
 #### LND
 
 - [Pathfinding: capacity-dependent apriori model probability](https://github.com/lightningnetwork/lnd/pull/6857)
+- [Pathfinding: probability for bimodal distribution](https://github.com/lightningnetwork/lnd/pull/6815)
 
 ## New Releases
 
-- [TBD]()
+- [RTL 0.13.6](https://github.com/Ride-The-Lightning/RTL/releases/tag/v0.13.6)
 
 ## Events and Podcasts
 
@@ -77,7 +82,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 
 ## Mining
 
-- [TBD]()
+- [Ongoing Taproot transaction analysis](https://twitter.com/taproot_signal)
 
 ## Miscellaneous
 
@@ -85,9 +90,10 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Ordinals Overview](https://docs.ordinals.com/overview.html)
 - [Inscribing Ordinals](https://docs.ordinals.com/guides/inscriptions.html)
 - [Ordinal Disrespector](https://minibolt.info/guide/bonus/bitcoin/ordisrespector.html#install)
+- [Ordinals hype ebbing?](https://twitter.com/Data_Always/status/1628204497833979904)
 - [Damus Approved on App Store](https://twitter.com/damusapp/status/1620541333269286912)
 - [Onboarding to Nostr](https://nostr.how)
-- [Jason Lower Thesis Published](https://twitter.com/JasonPLowery/status/1627640858106380290)
+- [Jason Lowery Thesis Published](https://twitter.com/JasonPLowery/status/1627640858106380290)
 
 ## Beginner Learning Resources
 - [Book recommendation - Layered Money by Nik Bhatia](https://www.bitcoinerbooks.com/books/layered-money)
