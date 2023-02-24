@@ -59,7 +59,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 
 ### InfoSec
 
-- [BTCPayserver Vulnerability disclosure](https://blog.btcpayserver.org/btcpay-server-cve-2022-32984/)
+- [BTCPayserver Vulnerability disclosure](https://blog.btcpayserver.org/btcpay-server-cve-2022-32984/), [announcement](https://twitter.com/BtcpayServer/status/1620581760022220800)
 
 ## Pull Requests and repo updates
 
