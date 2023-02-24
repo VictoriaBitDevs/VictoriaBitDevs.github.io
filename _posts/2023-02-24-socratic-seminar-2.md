@@ -40,6 +40,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 
 ### Optech
 
+- [Newsletter #238](https://bitcoinops.org/en/newsletters/2023/02/15/), [audio recap](https://twitter.com/bitcoinoptech/status/1626234989900865543)
 - [Newsletter #237](https://bitcoinops.org/en/newsletters/2023/02/08/), [audio recap](https://twitter.com/bitcoinoptech/status/1623293609490382848)
 - [Newsletter #236](https://bitcoinops.org/en/newsletters/2023/02/01/), [audio recap](https://twitter.com/bitcoinoptech/status/1620754262014976001)
 
@@ -82,6 +83,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 
 - [BTC:116 - Bitcoin Ordinals & NFTs on Layer1 of Bitcoin](https://open.spotify.com/episode/4mATX0f3hSmmfOePCGyfUZ)
 - [SLP456 - Casey Rodarmor What are Ordinals](https://stephanlivera.com/episode/456/)
+- [CD91: Ordinal Inscriptions with Rodarmor](https://www.podpage.com/citadeldispatch/cd91-ordinal-inscriptions-with-casey-rodarmor/)
 
 ## Mining
 
@@ -93,10 +95,12 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Ordinals Overview](https://docs.ordinals.com/overview.html)
 - [Inscribing Ordinals](https://docs.ordinals.com/guides/inscriptions.html)
 - [Ordinal Disrespector](https://minibolt.info/guide/bonus/bitcoin/ordisrespector.html#install)
+- [Andrew Poelstra's email](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021372.html)
 - [Ordinals hype ebbing?](https://twitter.com/Data_Always/status/1628204497833979904)
 - [Damus Approved on App Store](https://twitter.com/damusapp/status/1620541333269286912)
 - [Onboarding to Nostr](https://nostr.how)
 - [Jason Lowery Thesis Published](https://twitter.com/JasonPLowery/status/1627640858106380290)
+- [Bitcoin core maintainer Marco Falke steps down](https://www.nobsbitcoin.com/marco-falke-steps-down/)
 
 ## Beginner Learning Resources
 - [Book recommendation - Layered Money by Nik Bhatia](https://www.bitcoinerbooks.com/books/layered-money)
