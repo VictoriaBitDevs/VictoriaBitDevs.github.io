@@ -106,6 +106,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Book recommendation - Layered Money by Nik Bhatia](https://www.bitcoinerbooks.com/books/layered-money)
 - [Proof of work](https://en.bitcoin.it/wiki/Proof_of_work)
 - [What is a hash](https://www.bitcoindesigned.com/infographics/what-is-a-hash/)
+- [Bitcoin Script](https://en.bitcoin.it/wiki/Script)
 - [Assumevalid explainer](https://river.com/learn/terms/a/assume-valid/)
 - [Segwit](https://en.bitcoin.it/wiki/Segregated_Witness)
 - [Weight Units](https://en.bitcoin.it/wiki/Weight_units)
