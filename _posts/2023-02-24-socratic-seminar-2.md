@@ -112,4 +112,4 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Weight Units](https://en.bitcoin.it/wiki/Weight_units)
 
 ## Meme of the day
-- [TBD]()
+- [CBDCs are coming](https://twitter.com/SwanBitcoin/status/1629218130873487361)
