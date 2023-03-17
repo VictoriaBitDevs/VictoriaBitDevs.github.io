@@ -21,7 +21,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 
 #### bitcoin-dev
 
-- [OP_VAULT proposal has been assigned BIP number 345](https://twitter.com/jamesob/status/1631473848867516417)
+- [OP_VAULT proposal has been assigned BIP number 345](https://twitter.com/jamesob/status/1631473848867516417), [Proposal](https://github.com/jamesob/bips/blob/jamesob-23-02-opvault/bip-vaults.mediawiki)
 - [UTREEXO Signaling on service bit 24](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-March/021515.html)
 
 #### lightning-dev
