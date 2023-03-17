@@ -85,7 +85,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 
 - [One Bitcoin is your Harvard MBA](https://jessemyers.substack.com/p/one-bitcoin-is-your-harvard-mba)
 - [Why Bitcoin?](https://zacguignard.substack.com/p/why-bitcoin)
-- [The Lightning Network" Doest Not Exist](https://www.discreetlog.com/the-lightning-network-does-not-exist/)
+- ['The Lightning Network' Does Not Exist](https://www.discreetlog.com/the-lightning-network-does-not-exist/)
 - [Nostr DIY Signing Device Launched by LNBits](https://www.nobsbitcoin.com/nostr-diy-signing-device/)
 - [Emulating OP_VAULT with elements opcodes](https://burakkeceli.medium.com/emulating-op-vault-with-elements-opcodes-bdc7d8b0fe71)
 
