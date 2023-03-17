@@ -94,6 +94,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Bitcoin Script](https://river.com/learn/terms/s/script-bitcoin/)
 - [What is Turing Complete?](https://stackoverflow.com/questions/7284/what-is-turing-complete)
 - [Bitcoin Script Emulator](https://siminchen.github.io/bitcoinIDE/build/editor.html)
+- [Why Bitcoin?](https://zacguignard.substack.com/p/why-bitcoin)
 - [Search Engine for Bitcoin technical documentation and discussions](https://bitcoinsearch.xyz/)
 
 ## Meme of the day
