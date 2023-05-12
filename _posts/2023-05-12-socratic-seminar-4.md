@@ -52,6 +52,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Get Me out of This Payment! Bailout: An HTLC Re-routing Protocol](https://fc23.ifca.ai/preproceedings/94.pdf)
 
 ### InfoSec
+- [Google Authenticator now supports Google Account synchronization](https://security.googleblog.com/2023/04/google-authenticator-now-supports.html)
 - [Google's update of its 2FA Authenticator app with the ability to sync secrets across devices](https://twitter.com/mysk_co/status/1651021165727477763)
 - [Apple Releases Updates to Address Zero-Day Flaws in iOS, iPadOS, macOS, and Safari](https://thehackernews.com/2023/04/apple-releases-updates-to-address-zero.html)
 - [You Can Buy a Hacked Credit Card for Only $15, A Verified Binance Account for $410](https://www.nobsbitcoin.com/you-can-buy-a-hacked-credit-card-for-only-15-new-report-shows/)
@@ -66,6 +67,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 
 ## Events and Podcasts
 - [PMing Bitcoin core](https://twitter.com/moneyball/status/1644007145753698305)
+- [Scaling Bitcoin Privacy with Calle](https://www.whatbitcoindid.com/podcast/scaling-bitcoin-privacy)
 
 ## Mining
 - [Block with 6.7 BTC mining fee](https://mempool.space/block/000000000000000000041802d1e36499adfe62219a8fa080ff6a29bfb51145c6)
@@ -87,8 +89,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 ### Nostr
 - [Why I’m Betting Big on Nostr](https://hivemind.vc/nostr/)
 - [Nostr DID Method Specification](https://nosdav.net/melvin/did.html)
-
-## AI
+### AI
 - [Surprising things happen when you put 25 AI agents together in an RPG town](https://arstechnica.com/information-technology/2023/04/surprising-things-happen-when-you-put-25-ai-agents-together-in-an-rpg-town/)
 - [MIT research on ChatGPT shows ‘Industrial Revolution-level large’ leap for workers](https://www.cnbc.com/2023/05/10/mit-data-show-industrial-revolution-level-leap-for-workers-using-ai.html)
 - [Cody - Read, write, and understand code 10x faster with AI](https://about.sourcegraph.com/cody)
@@ -98,6 +99,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Bitcoin Improvement Proposals](https://bips.dev)
 - [Book Recommendation - The Little Bitcoin Book](https://www.bitcoinerbooks.com/books/the-little-bitcoin-book)
 - [Why build the Lightning Network?](https://www.bitcoindesigned.com/infographics/why-build-the-lightning-network/)
+- [What is the Lightning Network?](https://river.com/learn/what-is-the-lightning-network/)
 
 ## Meme of the day
 - [The price of adoption](https://twitter.com/freeslave06/status/1653712069433147393)
