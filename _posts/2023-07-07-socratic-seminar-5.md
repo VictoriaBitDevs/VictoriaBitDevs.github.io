@@ -56,7 +56,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Spear: Fast Multi-Path Payment with Redundancy](https://sites.ualberta.ca/~mkhabbaz/assets/pdf/Spear.pdf)
 
 ### InfoSec
-- [Ledger "Recover"](https://twitter.com/sethforprivacy/status/1658544658761277447), [White Paper](https://www.ledger.com/blog/announcing-the-ledger-recover-cryptographic-protocol-white-paper)
+- [Ledger "Recover"](https://twitter.com/sethforprivacy/status/1658544658761277447), [White Paper](https://www.ledger.com/blog/announcing-the-ledger-recover-cryptographic-protocol-white-paper), [Recover FAQs](https://support.ledger.com/hc/en-us/articles/9579368109597-Ledger-Recover-FAQs?docs=true)
 - [A Cryptographic Near Miss - Elliptic Vulnerability in Go](https://words.filippo.io/dispatches/near-miss/)
 - [Ledger vulnerability disclosure](https://wizardsardine.com/blog/ledger-vulnerability-disclosure/), [more](https://donjon.ledger.com/lsb/019/)
 
@@ -80,7 +80,6 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Fruit of the LOOP: the Game Theory Behind Running a Lightning Node](https://medium.com/@goryachev/fruit-of-the-loop-the-game-theory-behind-running-a-lightning-node-808506f35edb)
 - [He Stole $3.4 BILLION - But Made One Mistake](https://www.youtube.com/watch?v=pxvd1YOMGxU)
 ### Ordinals
-- [Most Bitcoin Inscriptions belong to a single person or entity](https://block21m.substack.com/p/most-bitcoin-inscriptions-belong-d6d)
 - [OKX being looted of uncommon ordinal sats](https://twitter.com/mononautical/status/1666079581374230529)
 ### Nostr
 - [munstr - MuSig wallet with Nostr comms for signing orchestration](https://github.com/0xBEEFCAF3/munstr)
@@ -96,4 +95,4 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Hash Timelock Contract](https://docs.lightning.engineering/the-lightning-network/multihop-payments/hash-time-lock-contract-htlc)
 
 ## Meme of the day
-- [CBDC-Central Banks-Bitcoin-Banks](https://twitter.com/masterminedusa/status/1675946043748282381)
+- [CBDC-CentralBanks-Bitcoin-Banks](https://twitter.com/masterminedusa/status/1675946043748282381)
