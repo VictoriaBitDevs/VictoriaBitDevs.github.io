@@ -96,6 +96,8 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Why build the Lightning Network?](https://www.bitcoindesigned.com/infographics/why-build-the-lightning-network/)
 - [What Is the Lightning Network?](https://river.com/learn/what-is-the-lightning-network/)
 - [Hash Timelock Contract](https://docs.lightning.engineering/the-lightning-network/multihop-payments/hash-time-lock-contract-htlc)
+- [Unjamming Lightning](https://research.chaincode.com/2022/11/15/unjamming-lightning/)
+- [Offers: Lightning's Native Experience, Everywhere](https://bolt12.org/)
 
 ## Meme of the day
 - [CBDC-CentralBanks-Bitcoin-Banks](https://twitter.com/masterminedusa/status/1675946043748282381)
