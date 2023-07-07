@@ -100,4 +100,4 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Offers: Lightning's Native Experience, Everywhere](https://bolt12.org/)
 
 ## Meme of the day
-- [CBDC-CentralBanks-Bitcoin-Banks](https://twitter.com/masterminedusa/status/1675946043748282381)
+- [The bots pay you in 2023](https://twitter.com/gregzaj1/status/1677370126616625152)
