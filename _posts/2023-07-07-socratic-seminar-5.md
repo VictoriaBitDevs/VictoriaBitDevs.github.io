@@ -79,6 +79,8 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [LNURL – ENHANCING LIGHTNING’S USER EXPERIENCE](https://voltage.cloud/blog/lightning-network-faq/how-does-lnurl-work-enhancing-lightnings-user-experience/)
 - [Fruit of the LOOP: the Game Theory Behind Running a Lightning Node](https://medium.com/@goryachev/fruit-of-the-loop-the-game-theory-behind-running-a-lightning-node-808506f35edb)
 - [He Stole $3.4 BILLION - But Made One Mistake](https://www.youtube.com/watch?v=pxvd1YOMGxU)
+- [The Rise of Lightning Service Providers](https://medium.com/synonym-to/the-rise-of-lightning-service-providers-6410274d5b70)
+- [Bitcoin vs the $156 Trillion Global Payments Industry](https://blog.river.com/bitcoin-vs-the-156-trillion-global-payments-industry/)
 ### Ordinals
 - [OKX being looted of uncommon ordinal sats](https://twitter.com/mononautical/status/1666079581374230529)
 ### Nostr
@@ -88,6 +90,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Japan Goes All In: Copyright Doesn’t Apply To AI Training](https://technomancers.ai/japan-goes-all-in-copyright-doesnt-apply-to-ai-training/)
 - [GPT4All](https://github.com/nomic-ai/gpt4all)
 - [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)
+- [AI for All: Powering APIs and Large Language Models with Lightning](https://lightning.engineering/posts/2023-07-05-l402-langchain/)
 
 ## Beginner Learning Resources
 - [Why build the Lightning Network?](https://www.bitcoindesigned.com/infographics/why-build-the-lightning-network/)
