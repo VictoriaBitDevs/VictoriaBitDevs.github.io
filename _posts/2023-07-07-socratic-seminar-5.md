@@ -43,6 +43,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Bitcoin Optech Newsletter #257](https://bitcoinops.org/en/newsletters/2023/06/28/)
 
 ## Network Data
+- [Bitcoin Ordinals Analysis](https://dune.com/dgtl_assets/bitcoin-ordinals-analysis)
 - [River Lightning node routes over 2M transactions](https://twitter.com/River_LN/status/1670856573340774400)
 - [Wallet of Satoshi did 689k Lightning payments in June](https://twitter.com/kerooke/status/1676575681554022410)
 
@@ -62,6 +63,8 @@ These rules exist so that BitDevs participants can speak freely within the event
 
 ## New Releases
 - [RTL v0.14.0](https://github.com/Ride-The-Lightning/RTL/releases/tag/v0.14.0)
+- [LND v0.16.4-beta](https://github.com/lightningnetwork/lnd/releases/tag/v0.16.4-beta)
+- [Aperture v0.2-beta](https://github.com/lightninglabs/aperture/releases/tag/v0.2-beta)
 
 ## Events and Podcasts
 - [Ledger Recover with Pascal Gauthier, NVK, Matt Odell & Harry Sudock](https://www.whatbitcoindid.com/podcast/ledger-recover)
@@ -99,5 +102,6 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Unjamming Lightning](https://research.chaincode.com/2022/11/15/unjamming-lightning/)
 - [Offers: Lightning's Native Experience, Everywhere](https://bolt12.org/)
 
-## Meme of the day
+## Memes of the day
 - [The bots pay you in 2023](https://twitter.com/gregzaj1/status/1677370126616625152)
+- [CBDC-Centralbanks-Bitcoin-Banks](https://twitter.com/masterminedusa/status/1675946043748282381)
