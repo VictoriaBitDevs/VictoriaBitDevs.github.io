@@ -70,12 +70,12 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Ledger Recover with Pascal Gauthier, NVK, Matt Odell & Harry Sudock](https://www.whatbitcoindid.com/podcast/ledger-recover)
 - [WBD Live in Miami - The Money Printing Debate with Jeff Snider and Lyn Alden](https://www.whatbitcoindid.com/podcast/wbd-live-in-miami-the-money-printing-debate)
 - [SPELLCASTER - The Fall of Sam Bankman-Fried](https://www.bloomberg.com/spellcaster)
+- [BlackRock's Larry Fink Gives a Laser-Eyed Bitcoin Interview](https://nlwcrypto.libsyn.com/blackrocks-larry-fink-gives-a-laser-eyed-bitcoin-interview)
 
 ## Mining
 - [Brooklyn bathhouse heats water with Bitcoin mining](https://www.datacenterdynamics.com/en/news/brooklyn-bathhouse-heats-water-with-bitcoin-mining/)
 - [The Kingdom Of Bhutan Has Been Quietly Mining Bitcoin For Years](https://www.forbes.com/sites/iainmartin/2023/04/30/bhutan-bitcoin-mining-crypto)
 - [70 Landfills Mining Bitcoin](https://batcoinz.com/50-landfills-mining-bitcoin-a-zero-emission-bitcoin-network/)
-- [BlackRock's Larry Fink Gives a Laser-Eyed Bitcoin Interview](https://nlwcrypto.libsyn.com/blackrocks-larry-fink-gives-a-laser-eyed-bitcoin-interview)
 
 ## Miscellaneous
 - [Lightning Payments – When Are They Too Small To Secure?](https://blog.bitmex.com/lightning-payments-when-are-they-too-small-to-secure/)
