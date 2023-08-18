@@ -64,8 +64,10 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [A Look Inside an Immersion and Hydro Cooled Bitcoin Mine](https://hashrateindex.com/blog/a-look-inside-an-immersion-and-hydro-bitcoin-mine/)
 - [Samsung's First 3nm GAA Chip Found in Cryptominer](https://www.tomshardware.com/news/samsung-first-3nm-chip-founc)
 - [Blockstream Bets on ASIC Market Recovery with Launch of New ‘BASIC Note’ Investment Vehicle](https://blockstream.com/press-releases/2023-08-15-blockstream-bets-on-asic-market-recovery-with-launch-of-new-basic-note-investment-vehicle/)
+- [Bitcoin’s Carbon Footprint Revisited: Proof of Work Mining for Renewable Energy Expansion](https://www.mdpi.com/2078-1547/14/3/35), [Zac's Summary](https://twitter.com/zacguignard/status/1691517275453681666)
 
 ## Miscellaneous
+- [Fedimint](https://fedimint.org/docs/intro)
 - [Phoenix wallet with splicing](https://twitter.com/phoenixwallet/status/1678781368309018624)
 - [Big drop in Lightning Liquidity](https://twitter.com/Leishman/status/1678733598445166596)
 - [Lightning Splicing](https://lightningsplice.com/splicing_explained.html)
