@@ -43,6 +43,9 @@ These rules exist so that BitDevs participants can speak freely within the event
 ### Research
 - [A LLM Assisted Exploitation of AI-Guardian](https://arxiv.org/abs/2307.15008)
 - [STRATUM V2: THE NEXT GENERATION PROTOCOL FOR BITCOIN POOLED MINING](https://webthesis.biblio.polito.it/27678/)
+- [Mutator Sets and their Application to Scalable Privacy](https://eprint.iacr.org/2023/1208)
+- [The Subtleties of Error Handling Flaws in MPC](https://www.coinbase.com/blog/the-subtleties-of-error-handling-flaws-in-mpc)
+- [The lookup singularity - how zero-knowledge proofs can be made simpler and easier to review](https://blog.icme.io/the-lookup-singularity/)
 
 ### InfoSec
 - [Anatomy of a Bitcoin Heist: The Electrum Atom Malware Saga](https://medium.com/@nbax/anatomy-of-a-bitcoin-heist-the-electrum-atom-malware-saga-1685abf7c903)
