@@ -6,7 +6,7 @@ meetup: https://www.meetup.com/victoriabitcoin/events/294363082/
 ---
 
 ## Announcements
-Please join us for our second socratic seminar in the city of Victoria. Please make sure you are RSVP'd, an identifier (but not a full name) is required for entry.
+Please join us for our fifth socratic seminar in the city of Victoria. Please make sure you are RSVP'd, an identifier (but not a full name) is required for entry.
 
 As a reminder, the ground rules of BitDevs are as follows:
 1. No photos, videos, or recordings
