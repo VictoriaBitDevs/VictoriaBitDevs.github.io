@@ -87,5 +87,5 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Script Wiz, Online Bitcoin Script Editor](https://ide.scriptwiz.app)
 - [What Are Anchor Outputs](https://fanismichalakis.fr/posts/anchor-outputs/)
 
-## Memes of the day
+## Meme of the day
 - [Gold vs Bitcoin](https://twitter.com/HalvingPartyMF/status/1691794465487290647)
