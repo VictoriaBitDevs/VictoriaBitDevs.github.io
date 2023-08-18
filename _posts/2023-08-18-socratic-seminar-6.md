@@ -48,26 +48,26 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [The lookup singularity - how zero-knowledge proofs can be made simpler and easier to review](https://blog.icme.io/the-lookup-singularity/)
 
 ### InfoSec
-- [Anatomy of a Bitcoin Heist: The Electrum Atom Malware Saga](https://medium.com/@nbax/anatomy-of-a-bitcoin-heist-the-electrum-atom-malware-saga-1685abf7c903)
 - [Vulnerability CVE-2023-39910](https://milksad.info)
 - [Newly discovered Bitcoin wallet loophole let hackers steal $900K — SlowMist](https://cointelegraph.com/news/newly-discovered-bitcoin-wallet-loophole-let-hackers-steal-funds-slow-mist)
+- [Anatomy of a Bitcoin Heist: The Electrum Atom Malware Saga](https://medium.com/@nbax/anatomy-of-a-bitcoin-heist-the-electrum-atom-malware-saga-1685abf7c903)
 - [BitForge: Fireblocks researchers uncover vulnerabilities in over 15 major wallet providers](https://www.fireblocks.com/blog/bitforge-fireblocks-researchers-uncover-vulnerabilities-in-over-15-major-wallet-providers/)
 - [Most popular Chinese keyboard app (450 million monthly users!) transmits every key typed to TencentGlobal](https://twitter.com/jsrailton/status/1689284044356235264)
 - [Firmware Extraction: Evil-Maid Attacks on Blockstream Jade Hardware Wallet](https://blog.ledger.com/blockstream/)
 
 ## Events and Podcasts
+- [Chaumian eCash in Bitcoin - Cashu & Fedimint - Adam Gibson aka waxwing](https://www.youtube.com/watch?v=VwMzNE1D3so&t=2s)
 - [SLP490 Dusty – What is Splicing and Why Will it Improve LN?](https://stephanlivera.com/episode/490/)
 - [Unlocking Bitcoin's Potential with Layer-2 featuring Jeff Boortz - Blockstream Talk #27](https://blockstream-talk-23225031.simplecast.com/episodes/blockstream-talk-27-unlocking-bitcoins-potential-with-layer-2s)
 - [Will Blackrock Be Bitcoin's Suddenly Moment? With Parker Lewis](https://www.whatbitcoindid.com/podcast/will-blackrock-be-bitcoins-suddenly-moment)
 - [Money Printing & the Debt Spiral with Macro Alf](https://www.whatbitcoindid.com/podcast/money-printing-the-debt-spiral)
-- [Chaumian eCash in Bitcoin - Cashu & Fedimint - Adam Gibson aka waxwing](https://www.youtube.com/watch?v=VwMzNE1D3so&t=2s)
 
 ## Mining
 - [Bitcoin Mining Around the World: United Arab Emirates](https://hashrateindex.com/blog/bitcoin-mining-around-the-world-united-arab-emirates/)
+- [Bitcoin’s Carbon Footprint Revisited: Proof of Work Mining for Renewable Energy Expansion](https://www.mdpi.com/2078-1547/14/3/35), [Zac's Summary](https://twitter.com/zacguignard/status/1691517275453681666)
 - [A Look Inside an Immersion and Hydro Cooled Bitcoin Mine](https://hashrateindex.com/blog/a-look-inside-an-immersion-and-hydro-bitcoin-mine/)
 - [Samsung's First 3nm GAA Chip Found in Cryptominer](https://www.tomshardware.com/news/samsung-first-3nm-chip-founc)
 - [Blockstream Bets on ASIC Market Recovery with Launch of New ‘BASIC Note’ Investment Vehicle](https://blockstream.com/press-releases/2023-08-15-blockstream-bets-on-asic-market-recovery-with-launch-of-new-basic-note-investment-vehicle/)
-- [Bitcoin’s Carbon Footprint Revisited: Proof of Work Mining for Renewable Energy Expansion](https://www.mdpi.com/2078-1547/14/3/35), [Zac's Summary](https://twitter.com/zacguignard/status/1691517275453681666)
 
 ## Miscellaneous
 - [Fedimint](https://fedimint.org/docs/intro)
