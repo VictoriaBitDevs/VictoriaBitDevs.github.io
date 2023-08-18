@@ -56,7 +56,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Firmware Extraction: Evil-Maid Attacks on Blockstream Jade Hardware Wallet](https://blog.ledger.com/blockstream/)
 
 ## Events and Podcasts
-- [Chaumian eCash in Bitcoin - Cashu & Fedimint - Adam Gibson aka waxwing](https://www.youtube.com/watch?v=VwMzNE1D3so&t=2s)
+- [Chaumian eCash in Bitcoin - Cashu & Fedimint - Adam Gibson aka waxwing](https://www.youtube.com/watch?v=VwMzNE1D3so&t=2s), [Presentation Gist](https://gist.github.com/AdamISZ/28c3475734becf031c9924f0b50d1bed)
 - [SLP490 Dusty – What is Splicing and Why Will it Improve LN?](https://stephanlivera.com/episode/490/)
 - [Unlocking Bitcoin's Potential with Layer-2 featuring Jeff Boortz - Blockstream Talk #27](https://blockstream-talk-23225031.simplecast.com/episodes/blockstream-talk-27-unlocking-bitcoins-potential-with-layer-2s)
 - [Will Blackrock Be Bitcoin's Suddenly Moment? With Parker Lewis](https://www.whatbitcoindid.com/podcast/will-blackrock-be-bitcoins-suddenly-moment)
