@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar 6"
+title: "Socratic Seminar 7"
 meetup: https://www.meetup.com/victoriabitcoin/events/296200770/
 ---
 ## Announcements
