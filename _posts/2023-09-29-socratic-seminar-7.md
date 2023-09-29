@@ -44,6 +44,8 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [BRC-20 Mintooors doing RBF](https://twitter.com/mononautical/status/1699440451118313955)
     - [Mintooors omit signature check, making txns spendable by anyone](https://twitter.com/mononautical/status/1705457795745595570)
     - [Mints requiring users to grind specific txid prefix](https://twitter.com/mononautical/status/1705643867955958265)
+- [Bitcoin Ordinals Analysis](https://dune.com/dgtl_assets/bitcoin-ordinals-analysis)
+
 ### Research
 - [LNGate: Secure Bidirectional IoT Micro-payments using Bitcoin's Lightning Network and Threshold Cryptography](https://arxiv.org/abs/2206.02248)
 - [Bitcoin Research Day](https://www.brd23.com)
@@ -64,8 +66,10 @@ These rules exist so that BitDevs participants can speak freely within the event
 ## Miscellaneous
 - [DRIVECHAIN ALLOWS SIDECHAIN NODE OPERATORS TO PAY MINERS TO MINE — AND MORE!](https://bitcoinmagazine.com/technical/drivechains-allow-sidechain-node-miners)
 - [DRIVECHAINS INTRODUCE NEW INCENTIVE DYNAMICS TO BITCOIN](https://bitcoinmagazine.com/technical/drivechains-introduce-new-incentive-dynamics-to-bitcoin)
+- [Lightning Splicing](https://lightningsplice.com/splicing_explained.html)
 
 ## Beginner Learning Resourcess
 - [Sidechains whitepaper](https://blockstream.com/sidechains.pdf)
 
 ## Meme of the day
+- [What Bitcoin security budget problem?](https://twitter.com/HalvingPartyMF/status/1706720903600783757)
