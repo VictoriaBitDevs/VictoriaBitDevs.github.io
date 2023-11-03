@@ -55,6 +55,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [WHY BLOCKCHAIN SURVEILLANCE NEEDS FINCEN’S PATRIOT ACT PLOY](https://bitcoinmagazine.com/technical/why-blockchain-surveillance-needs-fincens-patriot-act-ploy)
 - [They Cracked the Code to a Locked USB Drive Worth $235 Million in Bitcoin. Then It Got Weird](https://www.wired.com/story/unciphered-ironkey-password-cracking-bitcoin/)
 - [Security researcher stopped at US border for investigating crypto scam](https://www.bleepingcomputer.com/news/security/security-researcher-stopped-at-us-border-for-investigating-crypto-scam/)
+- [Wallet Fingerprints: Detection & Analysis](https://ishaana.com/blog/wallet_fingerprinting/)
 
 ## Events and Podcasts
 - [SLP520 WHAT IS BITVM? WITH ROBIN LINUS AND SUPER TESTNET](https://stephanlivera.com/episode/520/)
@@ -63,7 +64,6 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Are Central Banks Losing Control? With Lyn Alden & Natalie Smolenski](https://www.whatbitcoindid.com/podcast/are-central-banks-losing-control)
 
 ## Miscellaneous
-- [Wallet Fingerprints: Detection & Analysis](https://ishaana.com/blog/wallet_fingerprinting/)
 - [Entering the Bitcoin Renaissance: Making Bitcoin and Lightning Multi-Asset Networks](https://lightninglabs.substack.com/p/entering-the-bitcoin-renaissance)
 - [A letter from Nick: Why we’re keeping an eye on Binance.US](https://blog.keys.casa/why-were-keeping-an-eye-on-binance-us/)
 - [Bitcoin Knowledge and Perceptions: Chapter II](https://block.xyz/inside/report-bitcoin-survey-2023)
