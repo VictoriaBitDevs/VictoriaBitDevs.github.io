@@ -24,6 +24,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 #### lightning-dev
 - [SimLN: Simulate active test networks](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-October/004120.html)
 - [Full Disclosure: CVE-2023-40231 / CVE-2023-40232 / CVE-2023-40233 / CVE-2023-40234 "All your mempool are belong to us"](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-October/004122.html)
+    - [some rumination](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-November/004183.html)
 - [On solving pinning, replacement cycling and mempool issues for bitcoin second-layers](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-October/004158.html)
 
 ### Meetings
@@ -45,7 +46,6 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [The Lightning Network Grew by 1212% in 2 Years](https://blog.river.com/the-lightning-network-in-2023/)
 
 ### Research
-- [BitVM](https://bitvm.org/bitvm.pdf)
 - [Game-Theoretic Analysis of (Non-)Refundable Fees in the Lightning Network](https://arxiv.org/abs/2310.04058)
 - [On the (Not So) Surprising Impact of Multi-Path Payments on Performance and Privacy in the Lightning Network](https://eprint.iacr.org/2023/1624)
 - [Payment Splitting in Lightning Network as a Mitigation Against Balance Discovery Attacks](https://eprint.iacr.org/2023/1360)
@@ -74,3 +74,4 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [BitcoinDev.org](https://bitcoindev.org)
 
 ## Meme of the day
+https://x.com/RD_btc/status/1720108167579799739
