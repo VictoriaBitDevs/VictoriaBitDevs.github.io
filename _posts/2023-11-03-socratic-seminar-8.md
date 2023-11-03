@@ -74,4 +74,4 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [BitcoinDev.org](https://bitcoindev.org)
 
 ## Meme of the day
-https://x.com/RD_btc/status/1720108167579799739
+- [Printing money to "fight" inflation](https://x.com/RD_btc/status/1720108167579799739)
