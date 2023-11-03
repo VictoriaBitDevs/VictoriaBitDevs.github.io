@@ -54,6 +54,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 ### InfoSec
 - [WHY BLOCKCHAIN SURVEILLANCE NEEDS FINCEN’S PATRIOT ACT PLOY](https://bitcoinmagazine.com/technical/why-blockchain-surveillance-needs-fincens-patriot-act-ploy)
 - [They Cracked the Code to a Locked USB Drive Worth $235 Million in Bitcoin. Then It Got Weird](https://www.wired.com/story/unciphered-ironkey-password-cracking-bitcoin/)
+    - [related nytimes article](https://www.nytimes.com/2021/01/12/technology/bitcoin-passwords-wallets-fortunes.html)
 - [Security researcher stopped at US border for investigating crypto scam](https://www.bleepingcomputer.com/news/security/security-researcher-stopped-at-us-border-for-investigating-crypto-scam/)
 - [Wallet Fingerprints: Detection & Analysis](https://ishaana.com/blog/wallet_fingerprinting/)
 
