@@ -56,7 +56,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Understanding the Benefit of Being Patient in Payment Channel Networks](https://ieeexplore.ieee.org/abstract/document/9721580)
 
 ### InfoSec
-- [LNBank vulnerability exploited on BTCPayserver](https://stacker.news/items/347361)
+- [LNBank vulnerability exploited on BTCPayserver](https://stacker.news/items/347361), [Dev Recap](https://d11n.net/lnbank-vulnerability-recap)
 - [Ledger Live Tracks and Sends ALL User Information to Outsourced Data Harvesting Service](https://www.nobsbitcoin.com/ledger-live-tracks-and-sends-out-all-user-information-by-default/)
 - [Bitcoin user claims to be victim of hack which led to record $3 million transaction fee](https://www.theblock.co/post/264744/bitcoin-hack-victim-record-3-million-transaction-fee)
 - [LEDGER CONNECT KIT EXPLOIT](https://www.ledger.com/blog/a-letter-from-ledger-chairman-ceo-pascal-gauthier-regarding-ledger-connect-kit-exploit)
@@ -85,3 +85,4 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Bitcoin Hash Price](https://charts.woobull.com/bitcoin-hash-price/)
 
 ## Meme of the day
+- [Seriously, people still like fiat?](https://twitter.com/PlebSignalBTC/status/1735545653885808759)
