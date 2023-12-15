@@ -59,7 +59,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [LNBank vulnerability exploited on BTCPayserver](https://stacker.news/items/347361), [Dev Recap](https://d11n.net/lnbank-vulnerability-recap)
 - [Ledger Live Tracks and Sends ALL User Information to Outsourced Data Harvesting Service](https://www.nobsbitcoin.com/ledger-live-tracks-and-sends-out-all-user-information-by-default/)
 - [Bitcoin user claims to be victim of hack which led to record $3 million transaction fee](https://www.theblock.co/post/264744/bitcoin-hack-victim-record-3-million-transaction-fee)
-- [LEDGER CONNECT KIT EXPLOIT](https://www.ledger.com/blog/a-letter-from-ledger-chairman-ceo-pascal-gauthier-regarding-ledger-connect-kit-exploit)
+- [LEDGER CONNECT KIT EXPLOIT](https://www.ledger.com/blog/a-letter-from-ledger-chairman-ceo-pascal-gauthier-regarding-ledger-connect-kit-exploit), [Lopp's assessment](https://twitter.com/lopp/status/1735353894409052227)
 - [Just about every Windows and Linux device vulnerable to new LogoFAIL firmware attack](https://arstechnica.com/security/2023/12/just-about-every-windows-and-linux-device-vulnerable-to-new-logofail-firmware-attack/)
 - [ownCloud vulnerability with maximum 10 severity score comes under “mass” exploitation](https://arstechnica.com/security/2023/11/owncloud-vulnerability-with-a-maximum-10-severity-rating-comes-under-mass-exploitation/)
 
