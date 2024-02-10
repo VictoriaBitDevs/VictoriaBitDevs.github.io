@@ -82,4 +82,5 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Pruned Node](https://thebitcoinmanual.com/behind-btc/nodes/pruned-node/)
 
 ## Meme of the day
-- []
+- [A Swiss Bank Account in my Pocket](https://x.com/Ropeium/status/1755803952350642311)
+- [It’s been 6 months. why haven’t you shipped anything?](https://twitter.com/nikitabier/status/1755784841205850616)
