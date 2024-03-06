@@ -39,7 +39,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Extractable Witness Encryption for KZG Commitments and Efficient Laconic OT](https://eprint.iacr.org/2024/264)
 
 ### InfoSec
-- [Exodus Bitcoin Wallet: $490K Swindle](https://popey.com/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/)
+- <a href="https://popey.com/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/" style="color: blue;">Exodus Bitcoin Wallet: $490K Swindle</a>
 - [WH PRESS RELEASE: Future Software Should Be Memory Safe](https://www.whitehouse.gov/oncd/briefing-room/2024/02/26/press-release-technical-report/)
 - [How to Track Realtime Location of ANY Telegram User — 2 Methods](https://x-it.medium.com/how-to-track-realtime-location-of-any-telegram-user-2-methods-ec09d873b839)
 
@@ -54,14 +54,13 @@ These rules exist so that BitDevs participants can speak freely within the event
 
 
 ## Miscellaneous
-- [Bitcoin ETF flow](https://farside.co.uk/?p=997)
+- <a href="https://farside.co.uk/?p=997" style="color: blue;">Bitcoin ETF flow</a>
 - [Germany: Police seize bitcoins worth €2 billion](https://www.dw.com/en/germany-police-seize-bitcoins-worth-2-billion/a-68121384)
 
 
 ## Beginner Learning Resources
 - [21 tips for securing your bitcoin](https://blog.keys.casa/21-tips-for-securing-your-bitcoin/)
-- <a href="https://blog.keys.casa/21-tips-for-securing-your-bitcoin/" style="color: red;">21 tips for securing your bitcoin</a>
-- [Bitnodes](https://bitnodes.io/)
+- <a href="https://bitnodes.io/" style="color: blue;">Bitnodes</a>
 - [What makes a programming language Turing complete?](https://dev.to/gruhn/what-makes-a-programming-language-turing-complete-58fl)
 - [Decoding Satoshi's Non-Turing Completeness Strategy for Bitcoin](https://hackernoon.com/decoding-satoshis-non-turing-completeness-strategy-for-bitcoin)
 
