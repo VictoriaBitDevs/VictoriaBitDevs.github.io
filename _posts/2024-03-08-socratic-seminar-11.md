@@ -17,18 +17,26 @@ These rules exist so that BitDevs participants can speak freely within the event
 ### Mailing Lists
 
 #### [Delving Bitcoin](https://delvingbitcoin.org/)
+- [Basic vault prototype using OP_CAT](https://delvingbitcoin.org/t/basic-vault-prototype-using-op-cat/576)
+- [Mempool Incentive Compatibility](https://delvingbitcoin.org/t/mempool-incentive-compatibility/553)
+- [V3 and some possible futures](https://delvingbitcoin.org/t/v3-and-some-possible-futures/523)
+- [An Onchain Implementation Of Mining Feerate Futures](https://delvingbitcoin.org/t/an-onchain-implementation-of-mining-feerate-futures/547)
+- [Building Intuition for the Cashu Blind Signature Scheme](https://delvingbitcoin.org/t/building-intuition-for-the-cashu-blind-signature-scheme/506)
 
 
 ### Meetings
 
 #### Bitcoin PR Review Club
-
+- [Add `maxfeerate` and `maxburnamount` args to submitpackage](https://bitcoincore.reviews/28950)
 
 #### Lightning Specification Meetings
-
+- [February 12th](https://github.com/lightning/bolts/issues/1134)
+- [February 26th](https://github.com/lightning/bolts/issues/1142)
 
 ### Optech
-
+- [Bitcoin Optech Newsletter #289](https://bitcoinops.org/en/newsletters/2024/02/14/)
+- [Bitcoin Optech Newsletter #290](https://bitcoinops.org/en/newsletters/2024/02/21/)
+- [Bitcoin Optech Newsletter #291](https://bitcoinops.org/en/newsletters/2024/02/28/)
 
 ## Network Data
 
@@ -37,6 +45,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Spaces Protocol: Scalable and Permissionless Bitcoin Identities](https://spacesprotocol.org)
 - [Proofs for Deep Thought: Accumulation for large memories and deterministic computations](https://eprint.iacr.org/2024/325)
 - [Extractable Witness Encryption for KZG Commitments and Efficient Laconic OT](https://eprint.iacr.org/2024/264)
+- [Reducing CO2 emissions in a peer-to-peer distributed payment network: Does geography matter in the lightning network?](https://www.sciencedirect.com/science/article/abs/pii/S1389128624001294)
 
 ### InfoSec
 - <a href="https://popey.com/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/" style="color: blue;">Exodus Bitcoin Wallet: $490K Swindle</a>
