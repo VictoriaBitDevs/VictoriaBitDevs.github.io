@@ -74,13 +74,17 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [A Prototype Vault using CAT](https://github.com/taproot-wizards/purrfect_vault)
 - [Arithmetic Opcodes: What Could They Look Like?](https://rusty.ozlabs.org/2023/12/30/arithmetic-opcodes.html)
 - [Latest Thoughts on Bitcoin: the Good, the Bad, and the Ugly](https://medium.com/@elombrozo/latest-thoughts-on-bitcoin-the-good-the-bad-and-the-ugly-598d5346d0d7)
+- [Rethinking Lightning](https://stacker.news/items/379225)
+- <a href="https://twitter.com/pete_rizzo_/status/1761040089075888292" style="color: blue;">Satoshi Emails to Martti Malmi</a>, [emails on github](https://mmalmi.github.io/satoshi/), [10000 bc transaction](https://x.com/marttimalmi/status/1760893943644926397)
 
 ### Beginner Learning Resources
+- <a href="https://learnmeabitcoin.com" style="color: blue;">learn me a bitcoin</a>
 - [21 tips for securing your bitcoin](https://blog.keys.casa/21-tips-for-securing-your-bitcoin/)
 - <a href="https://bitnodes.io/" style="color: blue;">Bitnodes</a>
 - [What makes a programming language Turing complete?](https://dev.to/gruhn/what-makes-a-programming-language-turing-complete-58fl)
 - [Decoding Satoshi's Non-Turing Completeness Strategy for Bitcoin](https://hackernoon.com/decoding-satoshis-non-turing-completeness-strategy-for-bitcoin)
 - <a href="https://siminchen.github.io/bitcoinIDE/build/editor.html" style="color: blue;">Bitcoin Script Emulator</a>
+- [Enhancing Bitcoin transactions with covenants](https://fc17.ifca.ai/bitcoin/papers/bitcoin17-final28.pdf)
 
 ## Meme of the day
 - [](https://x.com/Sinz_Bitguide/status/1764360257415880725)
