@@ -22,7 +22,9 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [V3 and some possible futures](https://delvingbitcoin.org/t/v3-and-some-possible-futures/523)
 - [An Onchain Implementation Of Mining Feerate Futures](https://delvingbitcoin.org/t/an-onchain-implementation-of-mining-feerate-futures/547)
 - [Building Intuition for the Cashu Blind Signature Scheme](https://delvingbitcoin.org/t/building-intuition-for-the-cashu-blind-signature-scheme/506)
-
+- [Ecash and lightning via ZKCP](https://delvingbitcoin.org/t/ecash-and-lightning-via-zkcp/586)
+- [Bitcoin Dev mailing list is now on Google Groups](https://groups.google.com/g/bitcoindev)
+- <a href="https://delvingbitcoin.org/t/gitlab-backups-for-bitcoin-core-repository/624" style="color: blue;">GitLab Backups for Bitcoin Core repository</a>
 
 ### Meetings
 
@@ -37,34 +39,37 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Bitcoin Optech Newsletter #289](https://bitcoinops.org/en/newsletters/2024/02/14/)
 - [Bitcoin Optech Newsletter #290](https://bitcoinops.org/en/newsletters/2024/02/21/)
 - [Bitcoin Optech Newsletter #291](https://bitcoinops.org/en/newsletters/2024/02/28/)
+- [Bitcoin Optech Newsletter #292](https://bitcoinops.org/en/newsletters/2024/03/06/)
 
 ## Network Data
 
+### Mining
+- [Company that had 3 secret cryptocurrency mines must pay $400K, cease operations in Alberta](https://www.cbc.ca/news/canada/edmonton/green-block-mining-settlement-utilities-commission-1.7099790)
+- <a href="https://hashrateindex.com/blog/bitcoin-mining-in-canada-2023-recap/" style="color: blue;">Bitcoin Mining in Canada: 2023 Recap and Looking Ahead to 2024</a>
+- <a href="https://hashrateindex.com/blog/hashrate-index-roundup-february-26-2024/" style="color: blue;">Hashrate Index Roundup (February 26, 2024)</a>
 
-### Research
+## Research
 - [Spaces Protocol: Scalable and Permissionless Bitcoin Identities](https://spacesprotocol.org)
 - [Proofs for Deep Thought: Accumulation for large memories and deterministic computations](https://eprint.iacr.org/2024/325)
 - [Extractable Witness Encryption for KZG Commitments and Efficient Laconic OT](https://eprint.iacr.org/2024/264)
 - [Reducing CO2 emissions in a peer-to-peer distributed payment network: Does geography matter in the lightning network?](https://www.sciencedirect.com/science/article/abs/pii/S1389128624001294)
 
-### InfoSec
+## InfoSec
 - <a href="https://popey.com/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/" style="color: blue;">Exodus Bitcoin Wallet: $490K Swindle</a>
 - [WH PRESS RELEASE: Future Software Should Be Memory Safe](https://www.whitehouse.gov/oncd/briefing-room/2024/02/26/press-release-technical-report/)
 - [How to Track Realtime Location of ANY Telegram User — 2 Methods](https://x-it.medium.com/how-to-track-realtime-location-of-any-telegram-user-2-methods-ec09d873b839)
 
-## New Releases
-
-
 ## Events and Podcasts
-
-
-## Mining
-- [Company that had 3 secret cryptocurrency mines must pay $400K, cease operations in Alberta](https://www.cbc.ca/news/canada/edmonton/green-block-mining-settlement-utilities-commission-1.7099790)
-
 
 ## Miscellaneous
 - <a href="https://farside.co.uk/?p=997" style="color: blue;">Bitcoin ETF flow</a>
 - [Germany: Police seize bitcoins worth €2 billion](https://www.dw.com/en/germany-police-seize-bitcoins-worth-2-billion/a-68121384)
+- [GiveCrypto donates $3.6MM to Brink](https://twitter.com/bitcoinbrink/status/1758544229721120870)
+- [Braiins adds Lightning payouts](https://twitter.com/BraiinsMining/status/1760319741560856983)
+- <a href="https://hashrateindex.com/blog/a-guide-to-op_cat/" style="color: blue;">What is OP_CAT?</a>
+- [OP_CAT Draft proposal](https://github.com/EthanHeilman/op_cat_draft/blob/main/cat.mediawiki)
+- [A Prototype Vault using CAT](https://github.com/taproot-wizards/purrfect_vault)
+- [Arithmetic Opcodes: What Could They Look Like?](https://rusty.ozlabs.org/2023/12/30/arithmetic-opcodes.html)
 
 
 ## Beginner Learning Resources
@@ -72,6 +77,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 - <a href="https://bitnodes.io/" style="color: blue;">Bitnodes</a>
 - [What makes a programming language Turing complete?](https://dev.to/gruhn/what-makes-a-programming-language-turing-complete-58fl)
 - [Decoding Satoshi's Non-Turing Completeness Strategy for Bitcoin](https://hackernoon.com/decoding-satoshis-non-turing-completeness-strategy-for-bitcoin)
+- <a href="https://siminchen.github.io/bitcoinIDE/build/editor.html" style="color: blue;">Bitcoin Script Emulator</a>
 
 ## Meme of the day
 - [](https://x.com/Sinz_Bitguide/status/1764360257415880725)
