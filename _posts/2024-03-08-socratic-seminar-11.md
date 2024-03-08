@@ -87,4 +87,5 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Enhancing Bitcoin transactions with covenants](https://fc17.ifca.ai/bitcoin/papers/bitcoin17-final28.pdf)
 
 ## Meme of the day
-- [](https://x.com/Sinz_Bitguide/status/1764360257415880725)
+- [The market is speaking: #Bitcoin >>> #Gold](https://x.com/Sinz_Bitguide/status/1764360257415880725)
+- [SpamScamSpamScam](https://twitter.com/a_koby/status/1748740984857346056)
