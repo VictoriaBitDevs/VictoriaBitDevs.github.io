@@ -44,8 +44,6 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Bitcoin Optech Newsletter #291](https://bitcoinops.org/en/newsletters/2024/02/28/)
 - [Bitcoin Optech Newsletter #292](https://bitcoinops.org/en/newsletters/2024/03/06/)
 
-### Network Data
-
 ### Mining
 - [Company that had 3 secret cryptocurrency mines must pay $400K, cease operations in Alberta](https://www.cbc.ca/news/canada/edmonton/green-block-mining-settlement-utilities-commission-1.7099790)
 - <a href="https://hashrateindex.com/blog/bitcoin-mining-in-canada-2023-recap/" style="color: blue;">Bitcoin Mining in Canada: 2023 Recap and Looking Ahead to 2024</a>
@@ -61,8 +59,6 @@ These rules exist so that BitDevs participants can speak freely within the event
 - <a href="https://popey.com/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/" style="color: blue;">Exodus Bitcoin Wallet: $490K Swindle</a>
 - [WH PRESS RELEASE: Future Software Should Be Memory Safe](https://www.whitehouse.gov/oncd/briefing-room/2024/02/26/press-release-technical-report/)
 - [How to Track Realtime Location of ANY Telegram User — 2 Methods](https://x-it.medium.com/how-to-track-realtime-location-of-any-telegram-user-2-methods-ec09d873b839)
-
-### Events and Podcasts
 
 ### Miscellaneous
 - <a href="https://farside.co.uk/?p=997" style="color: blue;">Bitcoin ETF flow</a>
