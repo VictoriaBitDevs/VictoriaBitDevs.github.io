@@ -60,7 +60,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Implications of the $300 million exchange hack in Japan for domestic and overseas Bitcoin companies](https://x.com/Coin_and_Peace/status/1797341628610552033)
 - [How Researchers Cracked an 11-Year-Old Password to a $3 Million Crypto Wallet](https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/)
 
-New Releases
+### New Releases
 - <a href="https://lightning.engineering/posts/2024-05-30-lnd-0.18-launch/" style="color: blue;">LND 0.18 beta</a>
 
 ### Events and Podcasts
