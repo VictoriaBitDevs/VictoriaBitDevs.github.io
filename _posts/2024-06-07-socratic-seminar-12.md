@@ -26,7 +26,6 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Deterministic tx selection for censorship resistance](https://delvingbitcoin.org/t/deterministic-tx-selection-for-censorship-resistance/842)
 
 ### Meetings
-
 #### Bitcoin PR Review Club
 - [index TxOrphanage by wtxid, allow entries with same txid](https://bitcoincore.reviews/30000)
 
