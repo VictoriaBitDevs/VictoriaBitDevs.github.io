@@ -60,7 +60,10 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Implications of the $300 million exchange hack in Japan for domestic and overseas Bitcoin companies](https://x.com/Coin_and_Peace/status/1797341628610552033)
 - [How Researchers Cracked an 11-Year-Old Password to a $3 Million Crypto Wallet](https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/)
 
-### Podcasts
+New Releases
+- <a href="https://lightning.engineering/posts/2024-05-30-lnd-0.18-launch/" style="color: blue;">LND 0.18 beta</a>
+
+### Events and Podcasts
 - [The Bitcoin Scammer Uncensored with Junseth](https://www.whatbitcoindid.com/podcast/the-bitcoin-scammer-uncensored)
 - [SLP577 Great Script Restoration With Rusty Russell](https://stephanlivera.com/episode/577/)
 
@@ -70,7 +73,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [LNHANCE bips and implementation](https://delvingbitcoin.org/t/lnhance-bips-and-implementation/376)
 - [Silent payments](https://bitcoinops.org/en/topics/silent-payments/)
 - <a href="https://bitcoinops.org/en/topics/silent-payments/" style="color: blue;">Silent Payments</a>
-- <a href="https://x.com/BitMEXResearch/status/1792562674183659781" style="color: blue;">COPA vs CSW – Ruling Word Count Analysis></a>
+- <a href="https://x.com/BitMEXResearch/status/1792562674183659781" style="color: blue;">COPA vs CSW – Ruling Word Count Analysis</a>
 - [Satoshi’s 2014 Email Hack](https://blog.bitmex.com/satoshis-2014-email-hack/)
 - [Team Slow And Steady](https://www.erisian.com.au/wordpress/2024/04/20/team-slow-and-steady)
 - [FBI probed bitcoin core developer event linked to Luke Dashjr’s BTC hack: Mike Schmidt](https://www.theblock.co/amp/post/287939/fbi-luke-dashjr-btc-hack)
