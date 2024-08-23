@@ -61,13 +61,15 @@ These rules exist so that BitDevs participants can speak freely within the event
     - [No drop in Bitcoin nodes due to the outage](https://x.com/0xB10C/status/1814261328317452572)
 - <a href="https://darkskippy.com" style="color: blue;">Dark Skippy Disclosure</a>
 - <a href="https://groups.google.com/g/bitcoindev/c/Q2ZGit2wF7w" style="color: blue;">Bitcoin Core Security Disclosure Policy</a>
+    - [Public disclosure of 10 vulnerabilities affecting Bitcoin Core < 0.21.0](https://groups.google.com/g/bitcoindev/c/_ys3Eu8-ORA)
+    - [Public disclosure of 2 vulnerabilities affecting Bitcoin Core < v22.0](https://groups.google.com/g/bitcoindev/c/01goVlOCjBA)
 - [Wazirx exchange hacked for $235m](https://rekt.news/wazirx-rekt/)
 - [Polyfill supply chain attack hits 100K+ sites](https://sansec.io/research/polyfill-supply-chain-attack)
 - [Malicious PyPi Package triggers $8m hack on Bittensor](https://rekt.news/bittensor-rekt/)
 - [Wasabi Wallet Security Incident Disclosure:July 9th-10th 2024](https://github.com/WalletWasabi/WalletWasabi/discussions/13249)
 
 ### New Releases
-
+- [taproot-assets v0.4.0-alpha](https://github.com/lightninglabs/taproot-assets/releases/tag/v0.4.0)
 
 ### Events and Podcasts
 - [Bitcoin Explained - Silent Payments part 2](https://podcasters.spotify.com/pod/show/bitcoin-explained/episodes/Episode-94-Silent-Payments-part-2-e2lo5p0)
@@ -83,7 +85,7 @@ Taproot Assets on Lightning: The Global Financial Interoperability Layer</a>
 - [Assessing the Lightning Network's last-mile solutions](https://bitcoinmagazine.com/technical/assessing-the-lightning-networks-last-mile-solutions)
 
 ### Beginner Learning Resources
-
+- [Transaction Decoder](https://live.blockcypher.com/btc/decodetx/)
 
 ## Meme of the day
 - [Anyone know Jordi Montez?](https://x.com/DavidFBailey/status/1818056820205944972)
