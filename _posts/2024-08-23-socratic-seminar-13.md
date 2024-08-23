@@ -78,7 +78,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 
 ### Miscellaneous
 - [The Bitcoin Scholarship](https://bitcoinscholarship.xyz)
-- [BIP: 353 DNS Payment Instructions](https://github.com/bitcoin/bips/blob/master/bip-0353.mediawiki)
+- [BIP353: DNS Payment Instructions](https://bips.dev/353/)
 - <a href="https://sethforprivacy.com/guides/setting-up-a-bitcoin-username/" style="color: blue;">Setting up a Bitcoin username</a>
 - <a href="https://lightning.engineering/posts/2024-07-23-taproot-assets-LN/" style="color: blue;">
 Taproot Assets on Lightning: The Global Financial Interoperability Layer</a>
