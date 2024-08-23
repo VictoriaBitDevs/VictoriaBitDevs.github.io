@@ -86,6 +86,7 @@ Taproot Assets on Lightning: The Global Financial Interoperability Layer</a>
 
 ### Beginner Learning Resources
 - [Transaction Decoder](https://live.blockcypher.com/btc/decodetx/)
+- [Hashrate Index](https://data.hashrateindex.com/chart/bitcoin-hashprice-index)
 
 ## Meme of the day
 - [Anyone know Jordi Montez?](https://x.com/DavidFBailey/status/1818056820205944972)
