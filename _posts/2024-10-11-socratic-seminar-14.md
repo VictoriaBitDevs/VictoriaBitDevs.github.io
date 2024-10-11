@@ -57,7 +57,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Functional Adaptor Signatures: Beyond All-or-Nothing Blockchain-based Payments](https://eprint.iacr.org/2024/1523)
 
 ### InfoSec
-- <a href="https://x.com/zachxbt/status/1836753185718865979" style="color: blue;">$243M Bitcoin Heist</a>
+- <a href="https://x.com/zachxbt/status/1836752923830702392" style="color: blue;">$243M Bitcoin Heist</a>
 - <a href="https://bitcoincore.org/en/2024/10/08/disclose-blocktxn-crash/" style="color: blue;">Disclosure of node crash due to blocktxn message</a>
 - [Turning Everyday Gadgets into Bombs is a Bad Idea](https://www.bunniestudios.com/blog/2024/turning-everyday-gadgets-into-bombs-is-a-bad-idea/)
 - [Disclosure of memory DoS due to headers spam](https://bitcoincore.org/en/2024/09/18/disclose-headers-oom/)
