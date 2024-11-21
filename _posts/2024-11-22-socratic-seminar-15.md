@@ -53,8 +53,8 @@ These rules exist so that BitDevs participants can speak freely within the event
 
 
 ## Events and Podcasts
-- [Bitcoin Consensus with Steve Lee and Lyn Alden | SLP616](https://stephanlivera.com/episode/616/)
-- [Avoid Bitcoin Scams with Keith Gardner | SLP611](https://stephanlivera.com/episode/611/)
+- [Bitcoin Consensus with Steve Lee and Lyn Alden](https://stephanlivera.com/episode/616/)
+- [Avoid Bitcoin Scams with Keith Gardner](https://stephanlivera.com/episode/611/)
 
 ## Miscellaneous
 - [Introduction to Stablecoins in 2025](https://www.voltage.cloud/blog/introduction-to-stablecoins-in-2025)
