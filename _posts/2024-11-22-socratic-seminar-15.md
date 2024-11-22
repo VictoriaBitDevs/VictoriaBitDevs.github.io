@@ -39,18 +39,16 @@ These rules exist so that BitDevs participants can speak freely within the event
 ## Mining
 - [DATUM protocol](https://ocean.xyz/docs/datum)
 
-## Network Data
-
-
 ## Research
 - [An Exposition of Pathfinding Strategies Within Lightning Network Clients](https://arxiv.org/pdf/2410.13784)
+- [Push-Button Verification for BitVM Implementations](https://eprint.iacr.org/2024/1768)
+- [ColliderScript: Covenants in Bitcoin via 160-bit hash collisions](https://eprint.iacr.org/2024/1802)
+- [Quantum Computing: Between Hope and Hype](https://scottaaronson.blog/?p=8329)
+- [Transition to Post-Quantum Cryptography Standards](https://nvlpubs.nist.gov/nistpubs/ir/2024/NIST.IR.8547.ipd.pdf)
 
 ## InfoSec
 - [Nick Neuman chat with scammmer](https://x.com/Nneuman/status/1859279048179863582)
 - [U.S. Wiretap Systems Targeted in China-Linked Hack](https://www.msn.com/en-us/news/technology/u-s-wiretap-systems-targeted-in-china-linked-hack/ar-AA1rIZKx)
-
-## New Releases
-
 
 ## Events and Podcasts
 - [Bitcoin Consensus with Steve Lee and Lyn Alden](https://stephanlivera.com/episode/616/)
@@ -63,7 +61,8 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [LQWD Acquires Additional Bitcoin](https://lqwdtech.com/2024/lqwd-acquires-additional-bitcoin/)
 
 ## Beginner Learning Resources
+- [Bitcoin: A Homie-to-Homie Digital Cash Vibe](https://www.bitcoinforgenz.org/Bitcoin-Whitepaper-For-Gen-Z.pdf)
 
 ## Meme of the day
-- [Proposed redesign of serbian currency](https://x.com/dearvotion/status/1857195800922829255)
+- [Proposed redesign of Serbian currency](https://x.com/dearvotion/status/1857195800922829255)
 - [Gold's only use case](https://x.com/VandelayBTC/status/1854904048941470091)
