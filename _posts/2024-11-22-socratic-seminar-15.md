@@ -48,6 +48,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 
 ## InfoSec
 - <a href="https://x.com/Nneuman/status/1859279048179863582" style="color: blue;">Nick Neuman chat with scammmer</a>
+    - [Relevant Unchained story: Notice of data leak by email marketing provider impacting clients](https://unchained.com/blog/email-marketing-data-leak-notice/)
 - [U.S. Wiretap Systems Targeted in China-Linked Hack](https://www.msn.com/en-us/news/technology/u-s-wiretap-systems-targeted-in-china-linked-hack/ar-AA1rIZKx)
 
 ## Events and Podcasts
