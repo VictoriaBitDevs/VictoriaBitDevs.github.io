@@ -56,7 +56,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 
 ## Miscellaneous
 - <a href="https://x.com/jamesob/status/1857049961235403101" style="color: blue;">THE CONSENSUS CONUNDRUM - by jamesob</a>
-    [Bitcoin Magazine link](https://bitcoinmagazine.com/culture/the-consensus-conundrum)
+    - [Bitcoin Magazine link](https://bitcoinmagazine.com/culture/the-consensus-conundrum)
 - <a href="https://www.voltage.cloud/blog/introduction-to-stablecoins-in-2025" style="color: blue;">Introduction to Stablecoins in 2025</a>
 - [Analyzing Bitcoin Consensus: Risks in Protocol Upgrades](https://github.com/bitcoin-cap/bcap)
 - [LQWD Acquires Additional Bitcoin](https://lqwdtech.com/2024/lqwd-acquires-additional-bitcoin/)
