@@ -37,7 +37,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Bitcoin Optech Newsletter #329](https://bitcoinops.org/en/newsletters/2024/11/15/)
 
 ## Mining
-- [DATUM protocol](https://ocean.xyz/docs/datum)
+- <a href="https://ocean.xyz/docs/datum" style="color: blue;">DATUM protocol</a>
 
 ## Research
 - [An Exposition of Pathfinding Strategies Within Lightning Network Clients](https://arxiv.org/pdf/2410.13784)
@@ -47,7 +47,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Transition to Post-Quantum Cryptography Standards](https://nvlpubs.nist.gov/nistpubs/ir/2024/NIST.IR.8547.ipd.pdf)
 
 ## InfoSec
-- [Nick Neuman chat with scammmer](https://x.com/Nneuman/status/1859279048179863582)
+- <a href="https://x.com/Nneuman/status/1859279048179863582" style="color: blue;">Nick Neuman chat with scammmer</a>
 - [U.S. Wiretap Systems Targeted in China-Linked Hack](https://www.msn.com/en-us/news/technology/u-s-wiretap-systems-targeted-in-china-linked-hack/ar-AA1rIZKx)
 
 ## Events and Podcasts
@@ -55,13 +55,16 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Avoid Bitcoin Scams with Keith Gardner](https://stephanlivera.com/episode/611/)
 
 ## Miscellaneous
-- [Introduction to Stablecoins in 2025](https://www.voltage.cloud/blog/introduction-to-stablecoins-in-2025)
-- [THE CONSENSUS CONUNDRUM - by jamesob](https://x.com/jamesob/status/1857049961235403101)
+- <a href="https://x.com/jamesob/status/1857049961235403101" style="color: blue;">THE CONSENSUS CONUNDRUM - by jamesob</a>
+    [Bitcoin Magazine link](https://bitcoinmagazine.com/culture/the-consensus-conundrum)
+- <a href="https://www.voltage.cloud/blog/introduction-to-stablecoins-in-2025" style="color: blue;">Introduction to Stablecoins in 2025</a>
 - [Analyzing Bitcoin Consensus: Risks in Protocol Upgrades](https://github.com/bitcoin-cap/bcap)
 - [LQWD Acquires Additional Bitcoin](https://lqwdtech.com/2024/lqwd-acquires-additional-bitcoin/)
+- [Senator Cynthia Lummis Proposes Selling Federal Gold to Fund a National Bitcoin Reserve](https://www.tftc.io/senator-lummis-proposes-bitcoin-act-sell-gold/)
+- [Bitmain Denies Links to Huawei Supply Chain Investigation](https://www.tftc.io/bitmain-denies-huawei-supply-chain-investigation/)
 
 ## Beginner Learning Resources
-- [Bitcoin: A Homie-to-Homie Digital Cash Vibe](https://www.bitcoinforgenz.org/Bitcoin-Whitepaper-For-Gen-Z.pdf)
+- <a href="https://www.bitcoinforgenz.org/Bitcoin-Whitepaper-For-Gen-Z.pdf" style="color: blue;">Bitcoin: A Homie-to-Homie Digital Cash Vibe</a>
 
 ## Meme of the day
 - [Proposed redesign of Serbian currency](https://x.com/dearvotion/status/1857195800922829255)
