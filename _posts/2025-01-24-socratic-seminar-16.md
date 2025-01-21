@@ -19,6 +19,9 @@ These rules exist so that BitDevs participants can speak freely within the event
 
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
 - [Analyzing Mining Pool Behavior to Address Bitcoin Core’s Double Coinbase Reservation Issue](https://delvingbitcoin.org/t/analyzing-mining-pool-behavior-to-address-bitcoin-cores-double-coinbase-reservation-issue/1351)
+- [Disclosure: irrevocable fees—stealing from LN using revoked commitment transactions](https://delvingbitcoin.org/t/disclosure-irrevocable-fees-stealing-from-ln-using-revoked-commitment-transactions/1314)
+- [Pluggable Channel Factories](https://delvingbitcoin.org/t/pluggable-channel-factories/1252)
+- [Stats on compact block reconstructions](https://delvingbitcoin.org/t/stats-on-compact-block-reconstructions/1052)
 
 
 ### Meetings
