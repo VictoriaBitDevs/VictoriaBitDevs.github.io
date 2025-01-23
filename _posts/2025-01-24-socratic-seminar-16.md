@@ -53,9 +53,11 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [A look at the latest post-quantum signature standardization candidates](https://blog.cloudflare.com/another-look-at-pq-signatures/)
 
 ## InfoSec
+- [Unconfirmed rumors of Ledger co-founder kidnapping](https://x.com/lopp/status/1882129395210662162)
 - [Privacy Issue in WabiSabi Protocol](https://github.com/GingerPrivacy/GingerWallet/discussions/116)
 - [Wasabi Wallet v2.4.0: Send to Silent Payment Addresses](https://www.nobsbitcoin.com/wasabi-wallet-v2-4-0/)
 - [Operators of Blender and Sinbad Custodial Bitcoin Mixers Arrested and Charged with Money Laundering](https://www.nobsbitcoin.com/operators-of-blender-and-sinbad-mixers-2/)
+- [Unique 0-click deanonymization attack targeting Signal, Discord and hundreds of platform](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
 
 ## Events and Podcasts
 
@@ -65,9 +67,10 @@ These rules exist so that BitDevs participants can speak freely within the event
 - <a href="https://blog.lopp.net/bitcoin-2024-annual-review/" style="color: blue;">Bitcoin 2024 Annual Review</a>
 - [Google’s Quantum Computing Advancements Stoke Existential Fears](https://viewemail.nydig.com/quantum-leap)
 - [Blockstream Launches Jade Plus Signing Device](https://www.nobsbitcoin.com/blockstream-launches-jade-plus-signing-device/)
+- [SILK ROAD’S ROSS ULBRICHT: WHY DEFEND A MURDERER?](https://bitcoinmagazine.com/culture/silk-roads-ross-ulbricht-why-defend-a-murderer)
 
 ## Beginner Learning Resources
-
+- [NotebookLM](https://notebooklm.google.com/)
 
 ## Meme of the day
 - [World Liberty Financial purchased $47 million in Wrapped Bitcoin](https://x.com/gregzaj1/status/1881405896196235538)
