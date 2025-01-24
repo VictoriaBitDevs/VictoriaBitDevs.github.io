@@ -53,7 +53,8 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [A look at the latest post-quantum signature standardization candidates](https://blog.cloudflare.com/another-look-at-pq-signatures/)
 
 ## InfoSec
-- [Unconfirmed rumors of Ledger co-founder kidnapping](https://x.com/lopp/status/1882129395210662162)
+- <a href="https://www.nobsbitcoin.com/ledger-co-founder-freed-after-ransom-kidnapping/" style="color: blue;">Ledger Co-Founder Freed After Ransom Kidnapping</a>
+    - [Ransom paid in Tether](https://x.com/lopp/status/1882555743796396461)
 - [Privacy Issue in WabiSabi Protocol](https://github.com/GingerPrivacy/GingerWallet/discussions/116)
 - [Wasabi Wallet v2.4.0: Send to Silent Payment Addresses](https://www.nobsbitcoin.com/wasabi-wallet-v2-4-0/)
 - [Operators of Blender and Sinbad Custodial Bitcoin Mixers Arrested and Charged with Money Laundering](https://www.nobsbitcoin.com/operators-of-blender-and-sinbad-mixers-2/)
