@@ -51,6 +51,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [maxREE: Maximizing Flow by Replacing Exhausted Edges in Lightning Network](https://ieeexplore.ieee.org/abstract/document/10816058)
 - [BitVM: Quasi-Turing Complete Computation on Bitcoin](https://eprint.iacr.org/2024/1995)
 - [A look at the latest post-quantum signature standardization candidates](https://blog.cloudflare.com/another-look-at-pq-signatures/)
+- [An Analysis of the Correctness and Computational Complexity of Path Planning in Payment Channel Networks](https://arxiv.org/abs/2501.11419)
 
 ## InfoSec
 - <a href="https://www.nobsbitcoin.com/ledger-co-founder-freed-after-ransom-kidnapping/" style="color: blue;">Ledger Co-Founder Freed After Ransom Kidnapping</a>
