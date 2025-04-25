@@ -74,8 +74,8 @@ These rules exist so that BitDevs participants can speak freely within the event
 - <a href="https://blog.trailofbits.com/2025/04/" style="color: blue;">Mitigating ELUSIVE COMET Zoom remote control attacks</a>
 
 ## Events and Podcasts
-- [Bitcoin Address Poisoning Attacks w/ Jameson Lopp | MIT Bitcoin Expo 2025](https://www.youtube.com/watch?v=e_yg6cLsQHE)
-- [Ark: Scaling Bitcoin Payments with Steven Roose | SLP645](https://stephanlivera.com/episode/645/)
+- [Bitcoin Address Poisoning Attacks w/ Jameson Lopp MIT Bitcoin Expo 2025](https://www.youtube.com/watch?v=e_yg6cLsQHE)
+- [Ark: Scaling Bitcoin Payments with Steven Roose SLP645](https://stephanlivera.com/episode/645/)
 - [Bitcoin, Not Crypto — Part I: In Search of a Finite Monetary Policy](https://www.youtube.com/watch?v=19LA7ReARCQ)
 - [Bitcoin, Not Crypto — Part II: Bitcoin, Not Blockchain](https://www.youtube.com/watch?v=YroOIC8eDrk)
 - [Bitcoin, Not Crypto — Part III: Everything Will Be Built on Bitcoin](https://www.youtube.com/watch?v=ZsgZjAPjxDU)
