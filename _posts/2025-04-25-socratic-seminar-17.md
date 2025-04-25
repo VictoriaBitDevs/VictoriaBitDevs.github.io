@@ -71,7 +71,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 - <a href="https://x.com/Nneuman/status/1893057396638904561" style="color: blue;">How the $1.4B ByBit hack happened</a>
 ### Zoom hack
 - [Tactics used to take COMPLETE CONTROL of your computer](https://x.com/jakegallen_/status/1910702560266318287)
-- <a href="https://blog.trailofbits.com/2025/04/" style="color: blue;">Mitigating ELUSIVE COMET Zoom remote control attacks</a>
+- <a href="https://blog.trailofbits.com/2025/04/17/mitigating-elusive-comet-zoom-remote-control-attacks/" style="color: blue;">Mitigating ELUSIVE COMET Zoom remote control attacks</a>
 
 ## Events and Podcasts
 - [Ark: Scaling Bitcoin Payments with Steven Roose SLP645](https://stephanlivera.com/episode/645/)
