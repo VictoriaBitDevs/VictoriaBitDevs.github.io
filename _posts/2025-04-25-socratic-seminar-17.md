@@ -83,6 +83,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 ## Miscellaneous
 - <a href="https://ark-protocol.org/index.html" style="color: blue;">ARK Protocol</a>
 - <a href="https://sovereigntools.com" style="color: blue;">Lightning Wallet Comparison Tool</a>
+- [Second.tech](https://second.tech)
 - [Btrust 2024 In Review](https://blog.btrust.tech/btrust-2024-in-review/)
 - [Voltage report on Lightning adoption](https://x.com/voltage_cloud/status/1892228262027219202)
 - [River Research - What’s Driving Bitcoin Adoption in 2025?](https://blog.river.com/bitcoin-adoption-2025/)
