@@ -71,8 +71,8 @@ These rules exist so that BitDevs participants can speak freely within the event
 
 ## Events and Podcasts
 - [Bitcoin Core's Inscriptions Funny Business](https://www.youtube.com/watch?v=s8ny5h01zbo&t=1s)
-- [Bitcoin Core v30 Explained: Spam, Filters & the Knots Debate | Antoine Poinsot](https://www.whatbitcoindid.com/wbd957-antoine-poinsot)
-- [The Fight For Bitcoin’s Future | Samson Mow](https://www.whatbitcoindid.com/wbd954-samson-mow)
+- [Bitcoin Core v30 Explained: Spam, Filters & the Knots Debate - Antoine Poinsot](https://www.whatbitcoindid.com/wbd957-antoine-poinsot)
+- [The Fight For Bitcoin’s Future - Samson Mow](https://www.whatbitcoindid.com/wbd954-samson-mow)
 
 ## Miscellaneous
 - [Square Brings Bitcoin to Main Street With First Integrated Payments and Wallet Solution for Local Businesses](https://investors.block.xyz/investor-news/news-details/2025/Square-Brings-Bitcoin-to-Main-Street-With-First-Integrated-Payments-and-Wallet-Solution-for-Local-Businesses/default.aspx)
