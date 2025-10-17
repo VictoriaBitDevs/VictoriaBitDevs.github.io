@@ -68,6 +68,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Samsung Confirms Galaxy Zero Day And Emergency Update](https://www.forbes.com/sites/zakdoffman/2025/09/15/samsung-issues-emergency-update-for-most-galaxy-users/)
 - [Eclair: Preimage Extraction Exploit](https://morehouse.github.io/lightning/eclair-preimage-extraction-exploit/)
 - [Phoenix: Rowhammer Attacks on DDR5 with Self-Correcting Synchronization](https://comsec.ethz.ch/research/dram/phoenix/)
+- [North Korean hackers stole over $2 billion in crypto so far in 2025, researchers say](https://techcrunch.com/2025/10/07/north-korean-hackers-stole-over-2-billion-in-crypto-so-far-in-2025-researchers-say)
 
 ## Events and Podcasts
 - [Bitcoin Core's Inscriptions Funny Business](https://www.youtube.com/watch?v=s8ny5h01zbo&t=1s)
@@ -86,3 +87,4 @@ These rules exist so that BitDevs participants can speak freely within the event
 - <a href="https://learnmeabitcoin.com/technical/script/return/" style="color: blue;">OP_RETURN - Learn me a bitcoin</a>
 
 ## Meme of the day
+- [The life of being a Bitcoiner in 2025](https://x.com/BigSeanHarris/status/1971620178153926900)
