@@ -65,7 +65,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [LND v0.20 beta](https://lightning.engineering/posts/2025-12-03-lnd-0.20-launch/)
 
 ## Events and Podcasts
-- [BITCOIN SPAM: A LIBRE RELAY VIEW WITH PROOF OF CASH | SLP703](https://stephanlivera.com/episode/703/)
+- [BITCOIN SPAM: A LIBRE RELAY VIEW WITH PROOF OF CASH](https://stephanlivera.com/episode/703/)
 
 ## Miscellaneous
 - <a href="https://coingate.com/blog/post/eleven-years-of-bitcoin-payments-data-report-2014-2025" style="color: blue;">Bitcoin Payments: Eleven-Year Data Overview (2014–2025)</a>
