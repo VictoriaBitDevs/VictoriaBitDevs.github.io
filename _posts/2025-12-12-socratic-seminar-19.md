@@ -36,6 +36,8 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Bitcoin Optech Newsletter #383](https://bitcoinops.org/en/newsletters/2025/12/05/)
 
 ## Mining
+- [Miners Are Near Break-Even as Hashprice Hits Historic Lows](https://nicosmid.substack.com/p/miners-are-near-break-even-as-hashprice)
+- [MicroBT Reveals the Whatsminer M70 Series](https://hashrateindex.com/blog/microbt-reveals-the-whatsminer-m70-series/)
 - [Bitcoin's Hashrate Growth In Context](https://www.tftc.io/bitcoin-hashrate-growth/)
 
 ## Network Data
@@ -66,11 +68,14 @@ These rules exist so that BitDevs participants can speak freely within the event
 
 ## Events and Podcasts
 - [BITCOIN SPAM: A LIBRE RELAY VIEW WITH PROOF OF CASH](https://stephanlivera.com/episode/703/)
+- [Stablecoins on Lightning: The Next Evolution of Bitcoin Payments](https://www.youtube.com/watch?v=ZGeq-HmoHko)
 
 ## Miscellaneous
 - <a href="https://coingate.com/blog/post/eleven-years-of-bitcoin-payments-data-report-2014-2025" style="color: blue;">Bitcoin Payments: Eleven-Year Data Overview (2014–2025)</a>
+- <a href="https://x.com/DocumentingBTC/status/1999617553442705619" style="color:blue;">Anniversary of Satoshi's last public message</a>
 - [Quantum Doomsday Clock](https://quantumdoomclock.com/)
 - [Trump Crypto Venture WLFl Sold Tokens To Entities Tied to North Korea, Iran & a Notorious Money Laundering Platform](https://accountable.us/trump-crypto-venture-wlfl-sold-tokens-to-entities-tied-to-north-korea-iran-a-notorious-money-laundering-platform/)
 - [Cloudflare outage on November 18, 2025](https://blog.cloudflare.com/18-november-2025-outage/)
 
 ## Meme of the day
+- [Bitcoin changes you](https://x.com/s256anon001/status/1991867339839832147)
