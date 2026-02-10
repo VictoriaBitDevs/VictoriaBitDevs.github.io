@@ -1,6 +1,7 @@
 # BitDevs Victoria
 
 Simple Jekyll site for hosting all of the links from meetups past and future.
+https://bitdevsvictoria.org
 
 ## Development
 
