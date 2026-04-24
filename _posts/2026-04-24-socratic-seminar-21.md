@@ -87,6 +87,7 @@ These rules exist so that BitDevs participants can speak freely within the event
 - <a href="https://www.moneyforai.org" style="color: blue;">Money For AI</a>
 - [402 Index](https://402index.io)
 - <a href="https://x.com/kdaigle/status/2040164759836778878" style="color: blue;">Github scaling hard to cope with AI generated slop</a>
+- [The Future Is Now: Why L402 Is the Internet-Native Payments Protocol for Agents](https://lightning.engineering/posts/2026-03-11-L402-for-agents/)
 
 ## Meme of the day
 - [De-gen-Fi](https://x.com/CryptoCurb/status/2046387685233713499)
