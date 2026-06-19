@@ -47,8 +47,8 @@ These rules exist so that BitDevs participants can speak freely within the event
 - [Probabilistic Atomic Swaps for Bitcoin and Friends](https://arxiv.org/pdf/2605.04975)
 
 ## InfoSec
+- <a href="https://x.com/TFTC21/status/2054633189621035166" style="color: blue;">Claude helps recover Bitcoin wallet</a>
 - [Vulnerability Disclosure: Assertion DoS in Core Lightning](https://delvingbitcoin.org/t/vulnerability-disclosure-assertion-dos-in-core-lightning/2507)
-- [Claude helps recover Bitcoin wallet](https://x.com/TFTC21/status/2054633189621035166)
 - [IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era](https://www.redhat.com/en/about/press-releases/project-lightwell-secure-open-source)
 - [Zcash Orchard Vulnerability: "Three People Froze the Whole Pool"](https://www.tftc.io/zcash-orchard-vulnerability-privacy-inflation-bug/)
 
@@ -66,6 +66,8 @@ These rules exist so that BitDevs participants can speak freely within the event
 
 ## Beginners Learning Resources
 - [Intro to the Ark protocol](https://second.tech/docs/learn/intro)
+- [BTCRecover](https://btcrecover.readthedocs.io/en/latest/)
+- [Stratum V2](https://stratumprotocol.org/specification/00-abstract/)
 
 ## Meme of the day
-
+- [Being a Millenial](https://x.com/gregzaj1/status/2055360791197413635)
